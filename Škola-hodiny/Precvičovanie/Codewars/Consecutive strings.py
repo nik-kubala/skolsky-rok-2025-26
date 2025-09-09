@@ -5,6 +5,6 @@ def longest_consec(strarr, k):
     else:
         for i in range(0, len(strarr) - k + 1):
             zoznam.append("".join(strarr[i : i + k]))
-    for 
+    #for 
     print(zoznam)
 longest_consec(["tree", "foling", "trashy", "blue", "abcdef", "uvwxyz"], 2)
