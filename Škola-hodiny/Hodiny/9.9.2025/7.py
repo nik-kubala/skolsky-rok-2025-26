@@ -13,7 +13,7 @@ def miesaj(co,typ_miesania = True):
             # temp = co[i]
             # co[i] = co[j]
             # co[j] = temp
-    else:
+    else:  
         parne = [i for i in range(2, len(otazky), 2)]
         neparne = [i for i in range(1, len(otazky), 2)]
         for i in range(0, velkost // 2 - 1):
