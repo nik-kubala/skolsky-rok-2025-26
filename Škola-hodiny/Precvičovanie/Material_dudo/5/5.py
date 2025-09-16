@@ -1,4 +1,4 @@
-fr = open("Škola-hodiny/Precvičovanie/Material_dudo/5/objednane_jedla.txt", "r")
+fr = open("Precvičovanie/Material_dudo/5/objednane_jedla.txt", "r")
 
 pocet_riadkov = 0
 zoznam_objednavka = []
