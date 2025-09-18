@@ -1,4 +1,5 @@
 def sutaz_v_behu(cesta_k_suboru):
+    
     with open(cesta_k_suboru, "r",  encoding="UTF-8") as fr:
         zaznam_vysledkov = fr.readlines()
     
