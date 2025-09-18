@@ -4,7 +4,7 @@ def vytazenost_liniek(cesta_k_suboru):
     # Načítanie všetkých riadkov zo súboru.
     with open(cesta_k_suboru, "r", encoding = "UTF-8") as fr:
         zaznamy_riadky = fr.readlines()
-    
+
     # Prvý riadok v súbore je maximálna kapacita.
     max_kapacita = int(zaznamy_riadky[0].strip())
 
@@ -13,7 +13,7 @@ def vytazenost_liniek(cesta_k_suboru):
     for zaznam in zaznamy_riadky[1:]:
         # split(" ", 2) je dôležitý pre názvy zastávok s medzerami.
         nastupujuci, vystupujuci, zastavka = zaznam.strip().split(" ", 2)
-        
+
         # Uloženie dát do slovníka, čísla sú rovno pretypované na int.
         zaznam_slovnik = {
             "Nastupujúci": int(nastupujuci),
@@ -21,7 +21,7 @@ def vytazenost_liniek(cesta_k_suboru):
             "Zastávka": zastavka
         }
         zaznam_zoznam.append(zaznam_slovnik)
-    
+
     print(f"Počet zastávok: {len(zaznam_zoznam)}")
 
     # Získanie zoznamu názvov zastávok pomocou list comprehension.
@@ -33,21 +33,21 @@ def vytazenost_liniek(cesta_k_suboru):
     # Premenné pre simuláciu jazdy.
     priebezny_pocet = 0
     max_plny = 0
-    
+
     # Prechod zastávkami a výpočet vyťaženosti.
     for zastavenie in zaznam_zoznam:
         # Aktualizácia počtu ľudí v autobuse.
         priebezny_pocet += zastavenie["Nastupujúci"]
         priebezny_pocet -= zastavenie["Vystupujúci"]
-        
+
         # Kontrola, či je autobus preplnený.
         if priebezny_pocet > max_kapacita:
             print(f"Na zastávke {zastavenie["Zastávka"]} bol autobus preplnený!")
-            
+
         # Zaznamenanie nového maxima vyťaženosti.
         if priebezny_pocet > max_plny:
             max_plny = priebezny_pocet
-    
+
     # Výpis finálneho prekročenia kapacity.
     print(f"Autobus bol najviac preplnený o {max_plny - max_kapacita} ľudí.")
 
