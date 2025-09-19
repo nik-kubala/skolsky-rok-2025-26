@@ -11,11 +11,11 @@ for beh in riadok_list:
 
 print(f"Počet zúčastnených športovcov: {pocitadlo}")
 
-vitaz_cas = 0
+vitaz_cas = 78787897987
 vitaz_meno = ""
 for beh in riadok_list:
     print(f"Súťažiaci {beh[0]} dobehol do cieľa za {beh[1]} sekúnd")
-    if beh[1] > vitaz_cas:
+    if beh[1] < vitaz_cas:
         vitaz_cas = beh[1]
         vitaz_meno = beh[0]
 
