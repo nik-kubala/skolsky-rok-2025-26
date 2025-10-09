@@ -7,12 +7,12 @@ def sudoku_def(vstup):
         temp = [int(i) for i in riadok.strip().split(",")]
         sudoku.append(temp)
     
-    def checker(x, y, n):
+    def checker(y, x, n):
         del_x = (x // 3) * 3
         del_y = (y // 3) * 3
         
         for index in range(9):
-            if sudoku[x][index] == n or sudoku[index][y] == n:
+            if sudoku[y][index] == n or sudoku[index][x] == n:
                 return False
         
         for index1 in range(del_x, del_x + 3):

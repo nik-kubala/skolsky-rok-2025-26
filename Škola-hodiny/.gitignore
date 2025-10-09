@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+venv/
+*.env
+
+# Python cache a bytecode súbory
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Špecifické pre VS Code (nemusí sa zdieľať)
+.vscode/
+
+# Build a distribučné artefakty
+build/
+dist/
+*.egg-info/
+
+# Log súbory
+*.log
