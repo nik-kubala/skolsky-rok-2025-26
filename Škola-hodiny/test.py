@@ -1,3 +1,2 @@
-print("testujem github")
-
-print("cau serus")
+pismenka = list("materpitku")
+print(pismenka)
