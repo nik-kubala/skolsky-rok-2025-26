@@ -4,11 +4,14 @@ n = int(input())
 cisla = input().split()
 cisla_int = [int(i) for i in cisla]
 
-dlzka = len(cisla_int) - 1
+dlzka = len(cisla_int)
 def es():
-    for idx1, cislo1 in enumerate(cisla_int):
-        for cislo2 in cisla_int[idx1 + 1:]:
-            for cislo3 in cisla_int[idx1 + 2:]:
+    for i in range(dlzka):
+        for j in range(i + 1, dlzka):
+            for k in range(j + 1, dlzka):
+                cislo1 = cisla_int[i]
+                cislo2 = cisla_int[j]
+                cislo3 = cisla_int[k]
                 if (cislo1 + cislo2 + cislo3) % 3 == 0:
                     print(f"{cislo1} {cislo2} {cislo3}")
                     return

@@ -13,7 +13,13 @@ def zmena_farby():
         canvas.itemconfig(obejkt_1, fill = "blue")
     else:
         canvas.itemconfig(obejkt_1, fill = "red")
+    if canvas.itemcget(obejkt_2, "fill") == "yellow":
+        canvas.itemconfig(obejkt_2, fill="pink")
+    else:
+        canvas.itemconfig(obejkt_2, fill="yellow")
     
+
+obejkt_2 = canvas.create_oval(400, 200, 500, 300, fill="yellow", outline="black")
 
 obejkt_1 = canvas.create_rectangle(100, 200, 300, 100, fill = "blue", outline = "red")
 print(obejkt_1)

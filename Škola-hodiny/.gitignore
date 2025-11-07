@@ -19,3 +19,5 @@ dist/
 
 # Log súbory
 *.log
+
+prompts/

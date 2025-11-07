@@ -20,6 +20,7 @@ def a(vs, vy):
             print(f"{(" ").join(riadok)}")
             fw.write(f"{(" ").join(riadok)}{"\n"}")
     
+    
 vstup = "Precvičovanie/Material_dudo/21/poprehadzovany_text1_vstup.txt"
 vystup = "Precvičovanie/Material_dudo/21/vysledok.txt"
 a(vstup, vystup)

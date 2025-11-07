@@ -1,0 +1,16 @@
+paradigma
+spôsob písania kúdu/ukladania myšlienok
+procedurálne
+
+extistuje teoria ako spájať tie objekty aby bolo dobre - designed patterns (návrhové vzory)
+    ako objekty spájať aby medzi sebou komunikovali
+
+objekt = skladá sa z dát + funkcií nad dátami
+    funkcie sa volajú metódy
+    dáta sa volajú vlastnosti objektu
+
+class –> (pomocou inštancie) objekt
+
+class je predpis z ktoreho vytvaras objekt (niečo inštacia)
+
+slovicka: zapúzdrenosť, polymorfizmus (viactvarosť), preťaženie operátorov, dedenie, skladanie

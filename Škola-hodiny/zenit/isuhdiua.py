@@ -9,4 +9,4 @@ for cislo in cisla_int:
     if slov_idk[cislo] < n:
         vysledok.append(cislo)
         slov_idk[cislo] += 1
-print(vysledok)
+print((" ").join(map(str, vysledok)))

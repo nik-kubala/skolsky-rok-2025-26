@@ -1,2 +1,1 @@
-pismenka = list("materpitku")
-print(pismenka)
+print("hello")
