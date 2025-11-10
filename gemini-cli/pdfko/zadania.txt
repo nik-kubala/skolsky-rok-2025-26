@@ -1,0 +1,3133 @@
+75 7 2 75 ба. 6 5 6 d 65 2 0 76 2 0 50
+65 2 0 Зе З е 20 4 d 61 7 4 7 5 72
+2 0 76 20 50 7 9 7 4 6 8 6 f 65 2 0
+61 74 7 5 7 2 75 6al 6 5 6 d 65 201 7 6
+6 1 бе 65 20 Зе Зе Зе 2 0 4 d 6 1 74
+6 d 65 20 76 20 50 7 9 7 4 68 6 f бе
+20 4 d 61 74 7 5 72 75 6d 6 5
+74 68 6 f 65 201 Зе 4 d
+6a 6 5 6d 76 2 0 68
+З е Зе 20 7 4 75 ба 65
+50 79 6e 6 5
+N
+3e З е
+7 2 75 6 d 65 2 0 76 20 50 79
+20 З е 2 0 4 d 74 7 5 7 2 75
+79
+7 5
+Зе
+20
+75
+65
+2 0
+6 f
+6 d
+2 0
+74
+ба.
+74
+68
+6 1
+бе 65
+б а.
+З е
+50
+7 2
+65
+З е
+7 9
+75
+6 d
+201
+74
+ба
+20
+7 6
+74
+65
+4 d
+68
+65
+З е
+20
+75
+65
+2 0
+6 1
+6 f
+6d
+3el
+5 0
+72
+201
+7 6
+74
+бе
+65
+6 5 2 0
+4 d 61
+68 6 f
+6 5 6dl
+Зе 2 0
+79 74
+7 5
+Зе З е
+201 5 0
+7 5 2
+5 2
+2 0
+65 20
+2 0
+7 5 7 2 75 ба. 65 20
+6 8 6 f 2 0 З е Зе З е 20 4 d 61
+6. www.programujemevpythone.sk
+Зе З е
+9
+79
+З е
+76
+74
+6€
+65
+4 d
+2 0
+75
+6 5
+20
+61
+5 0
+7 2
+2 0
+76
+74
+74 68
+7 5 76
+se
+Зе
+3 e
+79
+Зе
+76 2 0
+4 d
+74
+be
+76 2 0 50 7 4 6 8 6 f 6 e 65 201 З е
+З е
+2 0
+4 d
+6 1
+74 7 5 7 2 6 5 6d 6 5 201 76 20
+50
+7 9
+74
+6 8
+б е 6 5 2 0 Зе 2 0 4 d 74 75
+65 201 7 6 20 5 0 79
+4 d 6 1 74 7 5 72 75
+68 6 f бе 65 2 0 30
+6 5 6d 65 2 0 7 6
+З е 2 0 4 d 6 1 74
+79 74 6 8 6 f 6e
+75 ба. 65
+Зе Зе 20
+20 50 79 7 4
+75 72 75 ба
+65 2 0 Зе Зе
+201 76 20 5 0 7 9
+6 1 7 4 75 72 75
+6 f 65 20 Зе З е Зе 2 0
+7 2
+15
+7 2
+2 0
+З е
+76
+6 8 6 1 65
+Зе
+2 0
+79 74
+7 5 ба
+Зе
+5 0
+5
+20 З е
+6
+N
+6 2 0
+50
+79
+68
+7 5
+7 2
+ба
+6e 6 5
+2 0
+З е
+65 201
+7 6
+20
+50
+20 50 79 74
+75
+ба
+d
+6 8
+65
+65 20 76 20 50 79 74 68 бе
+65
+2 0
+Зе
+Зel
+Зе
+4 d 74 7 5 72 75 6a 6 5 6 5
+2 0
+7 6
+20
+50
+4 68 6 f бе 65 2 0 З е Зel 4 d
+6a 65 6 d 6 5 20 76 2 0 50 79 168
+З е 20 4 d 61 74 75
+50 79 74 6 8 6 f 6e З е
+7 2 7 5 ба 65 6 d 6 5
+61
+6 f
+6 d
+2 0
+7 4
+b a
+74
+6e
+65
+4 d
+68
+65
+7 5
+65
+2 0
+6 1
+6 f
+6d
+72
+2 0
+76
+74
+бе
+79
+75
+З е
+2 0
+75
+65
+20
+65
+2 0
+6 1
+6 f
+6d
+2 0
+74
+6al
+Зе
+50
+72
+2 0
+20 З е Зе З е 20 4 d
+2 0
+76
+74
+65
+4 d
+6 8
+6 5
+Зе
+7 9
+75
+Зel
+201
+76 2 0 50 79 74 68 6 5
+74 7 5 72 7 5 ба 65 6 d 201
+бе 65 2 0 Зе Зе Зе 2 0 4 d 61
+201
+75
+65
+2 0
+6 1
+6 f
+6 d
+2 0
+74
+6al
+50
+72
+2 0
+76
+65 20 7 6 2 0 50 79 74 6 8 6 f
+Зе Зе Зе 2 0 4 d 6 1 74
+50
+7 2
+2 0
+76
+74
+6e
+65
+4 d
+68
+65
+З е
+79
+75
+Зе
+2 0
+75
+79
+75
+20
+75
+65
+20
+61
+6 f
+6 d
+20
+7 4
+ба.
+Зе
+50
+7 2
+68 6f 6e
+2 0
+74
+б а
+3el
+5 0
+72
+20
+76
+74
+бе
+65
+4 d
+6 8
+6 5
+Зе
+79
+7 5
+65 20 Зе
+4 d 61
+7 4
+7 5
+7 2
+6 8 6 f
+65
+20
+4 d
+6 8
+6 5
+З е
+79
+7 5
+Зе
+2 0
+75
+65
+20
+61
+6 f
+6 d
+20
+7 4
+61
+6 f
+6 d
+20
+74
+ба
+Зе
+5 0
+72
+20
+76
+74
+бе
+65
+4 d
+68
+74
+7 5
+65
+2 0
+75
+2 0
+6 f
+6 d
+20
+74
+ба.
+3 e
+50
+72
+20
+7 6
+74
+бе
+65
+4 d
+6 5 6 d
+6 5
+2 0
+7 6
+3e 2 0
+4 d
+6 1
+74
+79 74
+68
+6 f
+6 e
+4 d
+68
+65
+3 е
+79
+75
+2
+75
+6 5
+20
+1
+6 f
+6
+75 б а
+6 5
+6 d
+6 5
+Зе Зе
+Зе
+2 0
+4 d
+20 50
+79
+74
+68
+7 5 72
+7 5
+ба
+65
+7 4
+6 5 20
+З е
+З е
+2 0 76
+2 0 50
+79
+6 1 74
+75 72
+5 0 79
+72 75
+2 0 Зе
+7 6 20
+74 75
+бе 65
+5 2 0
+6 f б е
+65 2 0
+3 е
+6 d 65
+20 76
+2 0
+2 0 4 d
+61 74
+50
+7 2
+2 0
+76
+7 4 6 8
+6 f 6e 65
+65
+6d 65
+N
+З е 20 4 d 61
+79 7 4 68 6 f
+4d 61 74 75 72 75| 6а 65 6d
+75 ба 65 6d
+6 8 6f бе 65 2 0 3 е. Зе Зе 20 4 d
+15 72 75 б а 65 ба 65 20 7 6 20 50 79 74 68 6 f бе 6 5 20 Зе Зе Зе 20
+65 6d 65 20 76 20 50 79 74 68 6 f
+бе 65 20 Зе Зе Зе 201 4 d 6 1
+74 75
+7 2 75 б а 6 5 6 d 65 2 0 76 2 0 5 0 79 74
+Зе 20 4 d 61 74 75 7 2 75 ба 6 5 6 d
+65 201
+76 20| 5 0 79 74
+6 8 бе 6 5
+20 Зе
+Зе 20 4d 6 1 7 4 75 72 75 ба
+79 74 6 8 6 f бе 65 20 З е Зе Зе 20.
+4d 61 7 4 75 72 75 ба. 65 6d 65 20 76 20 50 79 74 6 8 6 f 65 20 3е Зе
+75 ба 65 6d 65 20 76 20 50 79 74
+68 6f бе 65 20 Зе Зе Зe 20 4d 6 1 74 75
+72 75 6а
+6 5 6dl 6 5 20 7 6 20 5 0
+3e Зe 20 4d 61 74 75 72 75 6a.
+65 6d 65 20 76 201 5 0 79 74 68 6 f 6е 65 201
+Зе зе
+З e 20. 4d 61 74 75 72
+Peter Ku č era, Jaroslav V ý bo š tok
+Maturujeme v Pythone zbierka rie š en ý ch úloh k maturite z informatiky
+2
+Maturujeme v Pythone
+zbierka riešených úloh k maturite z informatiky
+Autori © Mgr. Peter Kučera, Mgr. Jaroslav Výbošťok
+Design © Mgr. Peter Kučera
+Jazyková korektúra: Mgr. Katarína Kučerová
+Prvé vydanie, 2018
+Verzia číslo: 20180301
+Vydavateľ: Mgr. Peter Kučera
+Údaje o nadobúdateľovi licencie:
+Názov/meno: Občianske združenie Gymnázia Viliama Paulinyho-Tótha
+E-mail: alica@gymmt.sk
+Mesto/obec: Malá hora 3, 036 01 Martin
+Licencia číslo: 7011803049 - licencia pre jedného používateľa
+Upozorňujeme, že elektronická kniha je dielom chráneným podľa autorského zákona a je určená len
+pre osobnú potrebu kupujúceho. Kniha ako celok ani žiadna jej časť nesmie byť voľne šírená na
+internete, ani nijako ďalej zverejňovaná. V prípade ďalšieho šírenia neoprávnene zasiahnete do
+autorského práva s dôsledkami podľa platného autorského zákona a trestného zákonníka.
+Veľmi si vážime, že e-knihu ďalej nešírite. Len vďaka vašim nákupom dostanú autori, vydavatelia a
+kníhkupci odmenu za svoju prácu. Ďakujeme, že tak prispievate k vzniku ďalších skvelých kníh.
+zbierku a ďalšie materiály si môžete zakúpiť aj priamo na stránkach autora:
+http://www.programujemevpythone.sk/ a https://www.facebook.com/programujemevpythone
+ISBN 978-80-972987-2-2 (pdf)
+ISBN 978-80-972987-3-9 (epub)
+ISBN 978-80-972987-4-6 (mobi)
+3
+4
+Obsah
+Obsah
+Úvod
+O zbierke úloh a maturite z informatiky
+Prehľad úloh
+Zadania úloh
+1. Háďa
+2. Háďa - priebeh hry
+3. Displej v električke
+4. Záznamy z meteorologických staníc
+5. Označené jedlá
+6. Noty
+7. Náhodné skúšanie
+8. Nájdi puknutý tanier
+9. Preteky lodičiek
+10. Vykreslenie krížovky 1
+11. Súťaž v behu
+12. Vyťaženosť liniek dopravného podniku
+13. Žrút
+14. Skok do diaľky
+15. Zobrazenie zátvoriek
+16. Mená v stĺpcoch
+17. Tajná tabuľka
+18. Kresliaci robot 1
+19. Preklopenie obrázka
+20. Tabuľka početností
+21. Poprehadzovaný text 1
+22. Poprehadzovaný text 2
+23. Zašifrovaný text 1
+24. Zašifrovaný text 2
+25. Lotéria
+26. Krajina
+27. Vírus
+28. Hlasovanie 1
+29. Kompresia obrázka
+30. NIM
+31. Čiernobiely obrázok
+32. Konverzia súboru 1
+33. Spektrum odtieňov
+34. Dekompresia obrázka
+35. Vykreslenie komprimovaného obrázka
+36. Vykreslenie krížovky 2
+37. Hlasovanie 2
+38. Spokojnosť zákazníkov 1
+39. Spokojnosť zákazníkov 2
+40. Analýza údajov
+41. Výber jedla
+42. Zachráň padajúce vajíčko
+43. Pyrotechnik
+44. Uhádni padajúce slovo
+45. Učenie sa slovíčok
+46. Obesenec
+47. Čiarový kód
+48. Násobilka
+49. Rezervácia miesteniek
+5
+50. Obrys obrázka
+51. Kompresia oznamu 1
+52. Kompresia oznamu 2
+53. Zástavba na ulici
+54. Lodičky
+55. Kresliaci robot 2
+56. Editor levelov 1
+57. Editor levelov 2
+58. Trasa linky metra
+59. Vyťaženosť autobusovej linky
+60. Kalkulačka
+61. Delenie
+62. Anketa
+63. Dopravný prieskum
+64. Zasadací poriadok
+Riešenia úloh
+Príkazovník k učebnici Programujeme v Pythone
+Príkazovník k učebnici Programujeme v Pythone 2
+Použitá literatúra
+6
+Úvod
+Malcolm Gladwell vo svojej knihe Výnimoční uvádza, že ak chce človek dosiahnuť úspech v istej oblasti, musí
+trénovať alebo odpracovať 10 000 hodín. Autor sa snaží pravidlom poukázať na to, že samotný talent nestačí
+alebo nie je nutný na dosiahnutie úspechu. Je však potrebné vynakladať množstvo úsilia a systematicky
+trénovať. Niektorí psychológovia jeho tvrdenie odmietajú.
+Či už je tvrdenie pravdivé alebo nie, myslíme si, že prax nám pomáha zlepšovať sa v danej oblasti. Veríme, že
+týchto 64 úloh vám pomôže zlepšiť sa v programovaní a získať potrebnú prax, ktorú ocení nielen maturitná
+komisia, ale aj vy v ďalšom štúdiu či v práci.
+Ak ste už pri programovaní zažili situáciu, že vás pohltilo natoľko, že ste zabudli na plynutie času a všetkého
+okolo, nepociťovali ste hlad, smäd ani únavu, dostali ste sa do stavu flow. Flow pomenoval a definoval
+psychológ Mihaly Csikszentmihalyi.
+Dôležitým predpokladom stavu flow je, že náročnosť zadanej úlohy je primeraná zručnostiam. Keď sa naše
+zručnosti zlepšujú a s nimi sa primerane zvyšuje náročnosť úloh, nastáva pravé zaujatie a pocit zmysluplnosti –
+teda flow.
+Nie je nutné, aby ste vyriešili všetky úlohy a v danom poradí. Vyberajte si ich tak, aby vás bavili a boli pre vás
+primeranou výzvou, nech vás programovanie pohltí a baví :)
+Prajeme vám príjemné chvíle a flow pri riešení úloh, ale aj výborný výsledok na maturitnej skúške.
+Peter Kučera, Jaroslav Výbošťok
+Vstupné textové súbory a obrázky k úlohám si môžete stiahnuť z: http://bit.ly/2oIFjuX
+7
+O zbierke úloh a maturite z informatiky
+Priebeh maturitnej skúšky
+Maturitnú skúšku z informatiky tvorí ústna odpoveď študenta pred trojčlennou maturitnou komisiou. Študent si
+vyžrebuje jedno zo schválených maturitných zadaní. Zadanie obsahuje dve úlohy. Prvá úloha je z programovania
+a druhá úloha je zo základov informatiky. Celkový čas prípravy na obe úlohy je 30 minút. Študent si určuje, ako
+si čas prípravy rozdelí medzi jednotlivé úlohy. Po príprave nasleduje ústna odpoveď, ktorá trvá 20 minút.
+V tejto zbierke nájdete prvé (programátorské) úlohy maturitných zadaní.
+Čo všetko má študent vedieť na maturitu, určujú Cieľové požiadavky na vedomosti a zručnosti maturantov z
+informatiky, ktoré sú zverejnené na stránke Štátneho pedagogického ústavu (www.statpedu.sk).
+Čo obsahuje táto e-kniha?
+Zbierka obsahuje 64 úloh (34 grafických a 30 konzolových), ktoré svojou náročnosťou a zložením spĺňajú
+požiadavky na prvú časť (úlohu) maturitného zadania z informatiky (algoritmická úloha). V prvej časti zbierky sa
+nachádza zadanie úloh. Každá úloha má na konci odkaz na jej riešenie (riešenie obsahuje odkaz na zadanie),
+ktoré je v druhej časti zbierky. Niektoré úlohy obsahujú aj viaceré alternatívy riešenia. Pri zadaniach alebo
+riešeniach sa môžu nachádzať aj doplňujúce otázky, ktoré vás majú motivovať k premýšľaniu a pomôcť vám
+rozvíjať kritické myslenie a objavovanie súvislostí. Na konci riešenia každej úlohy sú symboly, ktoré popisujú,
+ktoré poznatky sú v riešení úlohy využité (napr.: textové reťazce, zoznamy, n-tice, funkcie a pod.). Netvrdíme,
+že bez týchto poznatkov sa úlohy nedajú vyriešiť.
+Na začiatku zbierky nájdete prehľad úloh spolu s popisom poznatkov, ktoré môžu byť na riešenie úlohy
+potrebné.
+Ako riešiť úlohy?
+Úlohy môžete riešiť v ľubovoľnom poradí. Ani ich umiestnenie v zbierke nemá kritérium. Úlohu by ste mali
+vyriešiť približne za 20 až 30 minút (čas z prípravy na maturite + čas z odpovede). Nie je nutné, aby ste úlohu na
+maturite vyriešili už počas prípravy, môžete ju dokončiť aj v priebehu odpovede. Náročnosť úloh zodpovedá
+náročnosti prvej úlohy maturitných zadaní. Netvrdíme, že všetky úlohy majú rovnakú náročnosť, no sú v istých
+medziach náročnosti prvej úlohy maturitného zadania. Môže sa stať, že niektorá úloha sa vám zdá veľmi ľahká
+a iná veľmi ťažká, no môže to byť spôsobené len kontextom úlohy, na ktorý ste doposiaľ neboli zvyknutí, alebo
+ste práve úlohy s podobným kontextom trénovali.
+Odporúčame vám zapisovať si do tabuľky (http://bit.ly/2F63JJP) dátum riešenia úlohy, celkový čas na jej
+vyriešenie a nejaké poznámky. Zo zápisov v tabuľke by ste mali vidieť, že sa postupne znižuje čas potrebný na
+vyriešenie úlohy, čo znamená, že získavate potrebnú prax. Vhodné je tieto úlohy riešiť aj priamo na vyučovaní.
+V rámci skupiny môžete mať spoločnú zdieľanú tabuľku (napríklad cez Google Drive), kde si informácie o
+vyriešených úlohách zapisuje každý študent zo skupiny (vo svojich troch stĺpcoch). Takto budete vedieť
+odhadnúť časovú náročnosť úlohy aj podľa údajov od svojich spolužiakov, alebo budete vidieť, ako rýchlo ste ju
+v porovnaní s nimi vyriešili vy.
+Skladba úlohy
+V prvej úlohe maturitného zadania (programátorskej) má byť definovaný cieľ, ktorý má študent dosiahnuť
+vytvorením programu v konkrétnom programovacom jazyku. V zadaní úlohy nemajú byť prezradené
+prostriedky, ktorými sa cieľ má dosiahnuť. Výber prostriedkov si určuje študent a ich správny výber je súčasťou
+hodnotenia. To znamená, že v úlohe nemá byť prezradené, či sa na riešenie má použiť napríklad cyklus a ktorý
+cyklus, a tiež ktorý typ premennej alebo dátovej štruktúry sa má v programe využiť.
+Úlohy v zbierke sú členené na menšie podúlohy (alebo nejaké vlastnosti programu) a tie sú zapísané v
+odrážkach. Často sú tieto odrážky gradovanými čiastkovými podúlohami celej úlohy. Toto členenie má pomôcť
+aj slabšiemu študentovi vyriešiť aspoň časť úlohy. Napríklad v úlohe s čítaním textového súboru môže byť v
+prvej odrážke prečítanie prvého riadku súboru a jeho vypísanie, čím študent preukáže, že vie minimálne správne
+8
+otvoriť vstupný súbor a prečítať prvý riadok. Až podúloha v ďalšej odrážke môže požadovať prečítanie a
+spracovanie celého súboru. Tiež sa môže stať, že prvá odrážka popisuje podmnožinu úlohy, ktorú treba spraviť v
+ďalšej odrážke. V niektorých takýchto zadaniach, ak vieme, stačí vyriešiť náročnejšiu časť popísanú v ďalšej
+odrážke (čím preukážeme aj vyriešenie elementárnejšej úlohy, o ktorú sa zachytíme v prípade, že náročnejšiu
+časť nevieme vyriešiť).
+Ak sa v úlohe pracuje s textovým súborom, jeho ukážku nájdete priamo v zadaní. Tieto vstupné súbory sú
+pripravené ako súčasť zbierky. Ich názov je rovnaký ako je v zadaní. Riešenie úloh nájdete aj v samostatných
+súboroch (názov
+úlohy.py), sú priložené k e-knihe alebo si ich stiahnete (pokiaľ máte platnú licenciu e-
+_
+knihy) zo stránky: http://bit.ly/2oIFjuX
+Čo ešte v našich učebniciach nezaznelo a nájdete v riešení niektorých úloh?
+V riešení niektorých úloh sme použili aj funkcie, ktoré sme nepoužili v našich učebniciach. Napriek tomu sme ich
+zaradili do riešenia, aby ste sa aj pri tomto opakovaní naučili aj nejaké nové drobnosti. Tu zhrnieme niektoré z
+nich:
+canvas.create
+_polygon(x1, y1, x2, y2, .... xn, yn) - príkaz kreslí uzavreté vyplnené útvary. Je
+veľmi podobný kresleniu čiar canvas.create
+_
+line(), rozdiel je len v tom, že čiarou automaticky spojí posledný
+nakreslený bod s prvým a vnútro útvaru vyplní nastavenou farbou (fill='farba').
+Dvojicu príkazov:
+button1 = tkinter.Button(text='popis'
+, command=funkcia)
+button1.pack()
+môžeme skrátene zapísať aj takto:
+tkinter.Button(text='popis'
+, command=funkcia).pack()
+Pri odchytávaní udalostí na stlačenie klávesnice nemusíme použiť príkaz canvas.bind
+all(), stačí aj
+_
+canvas.bind(). Pred tým aktivujeme odchytávanie klávesnice priamo z canvasu pomocou funkcie
+canvas.focus
+set(). Postačí nám teda bind, nepotrebujeme odchytávať udalosť z ktorýchkoľvek iných
+_
+widgetov (súčiastok) v okne aplikácie.
+9
+Prehľad všetkých úloh
+1. Háďa
+______________________________________
+2. Háďa - priebeh hry
+________________________
+3. Displej v električke
+______________________
+4. Záznamy z meteorologických staníc
+_________
+5. Označené jedlá
+____________________________
+6. Noty
+______________________________________
+7. Náhodné skúšanie
+__________________________
+8. Nájdi puknutý tanier
+______________________
+9. Preteky lodičiek
+__________________________
+10. Vykreslenie krížovky 1
+___________________
+11. Súťaž v behu
+_____________________________
+12. Vyťaženosť liniek dopravného podniku
+_____
+13. Žrút
+_____________________________________
+14. Skok do diaľky
+___________________________
+15. Zobrazenie zátvoriek
+_____________________
+16. Mená v stĺpcoch
+__________________________
+17. Tajná tabuľka
+____________________________
+18. Kresliaci robot 1
+________________________
+19. Preklopenie obrázka
+______________________
+20. Tabuľka početností
+_______________________
+21. Poprehadzovaný text 1
+____________________
+22. Poprehadzovaný text 2
+____________________
+23. Zašifrovaný text 1
+_______________________
+24. Zašifrovaný text 2
+_______________________
+25. Lotéria
+__________________________________
+26. Krajina
+__________________________________
+27. Vírus
+____________________________________
+28. Hlasovanie 1
+_____________________________
+29. Kompresia obrázka
+________________________
+30. NIM
+______________________________________
+31. Čiernobiely obrázok
+______________________
+32. Konverzia súboru 1
+_______________________
+33. Spektrum odtieňov
+________________________
+34. Dekompresia obrázka
+______________________
+35. Vykreslenie komprimovaného obrázka
+_______
+36. Vykreslenie krížovky 2
+___________________
+37. Hlasovanie 2
+_____________________________
+38. Spokojnosť zákazníkov 1
+__________________
+39. Spokojnosť zákazníkov 2
+__________________
+40. Analýza údajov
+___________________________
+41. Výber jedla
+______________________________
+42. Zachráň padajúce vajíčko
+_________________
+43. Pyrotechnik
+______________________________
+44. Uhádni padajúce slovo
+____________________
+45. Učenie sa slovíčok
+_______________________
+46. Obesenec
+_________________________________
+47. Čiarový kód
+______________________________
+48. Násobilka
+________________________________
+49. Rezervácia miesteniek
+____________________
+50. Obrys obrázka
+____________________________
+51. Kompresia oznamu 1
+_______________________
+52. Kompresia oznamu 2
+_______________________
+53. Zástavba na ulici
+________________________
+54. Lodičky
+__________________________________
+55. Kresliaci robot 2
+________________________
+56. Editor levelov 1
+_________________________
+57. Editor levelov 2
+_________________________
+58. Trasa linky metra
+________________________
+59. Vyťaženosť autobusovej linky
+_____________
+60. Kalkulačka
+[], Cnv, aft.
+''
+, txt, fx()
+''
+, [], txt, Cnv, fx(), aft.
+''
+, (), [], txt
+''
+, {}, txt
+''
+, txt, Cnv, fx(), aft.
+''
+, []
+''
+, [], Cnv, fx()
+''
+, [], Cnv, fx()
+''
+, (), [], txt, Cnv, fx()
+(), [], txt
+''
+, [], txt
+''
+, (), [], Cnv
+(), [], {}, txt
+''
+, [], Cnv
+''
+, [], txt
+''
+, []
+''
+, [], Cnv
+''
+, [], [[]], txt, Cnv
+''
+, [], txt
+''
+, [], txt
+''
+, [], txt
+''
+, txt, fx()
+''
+, txt, fx()
+''
+, [], txt, fx()
+[], Cnv, fx()
+''
+, [], txt, fx()
+''
+, (), [], txt
+''
+, txt, fx()
+''
+, Cnv, fx()
+''
+, txt, Cnv, fx()
+''
+, txt, fx()
+''
+, [], txt, Cnv
+''
+, [], txt, fx()
+[], txt, Cnv, fx()
+''
+, (), [], txt, Cnv, fx()
+''
+, [], txt
+''
+, [], txt
+''
+, [], txt
+''
+, [], txt
+''
+, [], txt, Cnv
+''
+, Cnv, fx(), aft.
+[], Cnv, fx(), aft.
+''
+, Cnv, fx(), aft.
+''
+, [], txt
+''
+, [], txt
+''
+, txt, Cnv, fx()
+''
+, (), [], txt, fx()
+''
+, [], txt, Cnv, fx()
+txt, Cnv
+''
+, []
+''
+, []
+[], txt, Cnv
+[[]], txt, Cnv, fx()
+''
+, [], txt, Cnv, fx()
+[], txt, Cnv, fx()
+[], Cnv, fx()
+''
+, [], txt, Cnv
+''
+, [], txt, Cnv, fx()
+''
+, Cnv, fx()
+_______________________________
+10
+61. Delenie
+__________________________________
+62. Anketa
+___________________________________
+63. Dopravný prieskum
+________________________
+64. Zasadací poriadok
+________________________
+''
+, (), Cnv, fx()
+''
+, [], txt, Cnv, fx()
+(), [], txt
+''
+, (), [], txt, Cnv, fx()
+Prehľad grafických úloh
+1. Háďa
+______________________________________
+3. Displej v električke
+______________________
+6. Noty
+______________________________________
+8. Nájdi puknutý tanier
+______________________
+9. Preteky lodičiek
+__________________________
+10. Vykreslenie krížovky 1
+___________________
+13. Žrút
+_____________________________________
+15. Zobrazenie zátvoriek
+_____________________
+18. Kresliaci robot 1
+________________________
+19. Preklopenie obrázka
+______________________
+26. Krajina
+__________________________________
+30. NIM
+______________________________________
+31. Čiernobiely obrázok
+______________________
+33. Spektrum odtieňov
+________________________
+35. Vykreslenie komprimovaného obrázka
+_______
+36. Vykreslenie krížovky 2
+___________________
+41. Výber jedla
+______________________________
+42. Zachráň padajúce vajíčko
+_________________
+43. Pyrotechnik
+______________________________
+44. Uhádni padajúce slovo
+____________________
+47. Čiarový kód
+______________________________
+49. Rezervácia miesteniek
+____________________
+50. Obrys obrázka
+____________________________
+53. Zástavba na ulici
+________________________
+54. Lodičky
+__________________________________
+55. Kresliaci robot 2
+________________________
+56. Editor levelov 1
+_________________________
+57. Editor levelov 2
+_________________________
+58. Trasa linky metra
+________________________
+59. Vyťaženosť autobusovej linky
+_____________
+60. Kalkulačka
+_______________________________
+61. Delenie
+__________________________________
+62. Anketa
+___________________________________
+64. Zasadací poriadok
+[], Cnv, aft.
+''
+, [], txt, Cnv, fx(), aft.
+''
+, txt, Cnv, fx(), aft.
+''
+, [], Cnv, fx()
+''
+, [], Cnv, fx()
+''
+, (), [], txt, Cnv, fx()
+''
+, (), [], Cnv
+''
+, [], Cnv
+''
+, [], Cnv
+''
+, [], [[]], txt, Cnv
+[], Cnv, fx()
+''
+, Cnv, fx()
+''
+, txt, Cnv, fx()
+''
+, [], txt, Cnv
+[], txt, Cnv, fx()
+''
+, (), [], txt, Cnv, fx()
+''
+, [], txt, Cnv
+''
+, Cnv, fx(), aft.
+[], Cnv, fx(), aft.
+''
+, Cnv, fx(), aft.
+''
+, txt, Cnv, fx()
+''
+, [], txt, Cnv, fx()
+txt, Cnv
+[], txt, Cnv
+[[]], txt, Cnv, fx()
+''
+, [], txt, Cnv, fx()
+[], txt, Cnv, fx()
+[], Cnv, fx()
+''
+, [], txt, Cnv
+''
+, [], txt, Cnv, fx()
+''
+, Cnv, fx()
+''
+, (), Cnv, fx()
+''
+, [], txt, Cnv, fx()
+''
+, (), [], txt, Cnv, fx()
+________________________
+Prehľad konzolových úloh
+2. Háďa - priebeh hry
+________________________
+4. Záznamy z meteorologických staníc
+_________
+5. Označené jedlá
+____________________________
+7. Náhodné skúšanie
+__________________________
+11. Súťaž v behu
+_____________________________
+12. Vyťaženosť liniek dopravného podniku
+_____
+14. Skok do diaľky
+___________________________
+16. Mená v stĺpcoch
+__________________________
+17. Tajná tabuľka
+____________________________
+20. Tabuľka početností
+_______________________
+21. Poprehadzovaný text 1
+____________________
+22. Poprehadzovaný text 2
+____________________
+23. Zašifrovaný text 1
+_______________________
+24. Zašifrovaný text 2
+_______________________
+25. Lotéria
+__________________________________
+27. Vírus
+____________________________________
+28. Hlasovanie 1
+_____________________________
+''
+, txt, fx()
+''
+, (), [], txt
+''
+, {}, txt
+''
+, []
+(), [], txt
+''
+, [], txt
+(), [], {}, txt
+''
+, [], txt
+''
+, []
+''
+, [], txt
+''
+, [], txt
+''
+, [], txt
+''
+, txt, fx()
+''
+, txt, fx()
+''
+, [], txt, fx()
+''
+, [], txt, fx()
+''
+, (), [], txt
+11
+29. Kompresia obrázka
+________________________
+32. Konverzia súboru 1
+_______________________
+34. Dekompresia obrázka
+______________________
+37. Hlasovanie 2
+_____________________________
+38. Spokojnosť zákazníkov 1
+__________________
+39. Spokojnosť zákazníkov 2
+__________________
+40. Analýza údajov
+___________________________
+45. Učenie sa slovíčok
+_______________________
+46. Obesenec
+_________________________________
+48. Násobilka
+________________________________
+51. Kompresia oznamu 1
+_______________________
+52. Kompresia oznamu 2
+_______________________
+63. Dopravný prieskum
+________________________
+''
+, txt, fx()
+''
+, txt, fx()
+''
+, [], txt, fx()
+''
+, [], txt
+''
+, [], txt
+''
+, [], txt
+''
+, [], txt
+''
+, [], txt
+''
+, [], txt
+''
+, (), [], txt, fx()
+''
+, []
+''
+, []
+(), [], txt
+12
+1
+Háďa
+Naprogramujte hru „Háďa“
+.
+Hlavička háďaťa je veľkosti jeden bod. Háďa sa neustále pohybuje určeným smerom a za sebou
+zanecháva čiaru. Na začiatku má nastavený smer na sever.
+Smer pohybu háďaťa meníme pomocou klávesnice (resp. tlačidiel) v štyroch základných smeroch
+(hore, dole, vpravo, vľavo).
+Hra končí, ak narazí samo do seba (resp. do čiary, ktorú zanechal).
+Ukážka dvoch ukončených hier háďaťa:
+Otázky:
+1. Ako zistíme, či háďa narazilo do seba?
+2. Čo sa stane, keď hráč zmení smer na opačný (otočí sa čelom vzad)?
+riešenie úlohy
+2
+Háďa - priebeh hry
+V textovom súbore hada.txt máme zapísaný priebeh hier „Háďa“
+. V každom riadku je zapísaný priebeh
+jednej hry. (Jedna hra je postupnosť jednobodových krokov, ktorými sa pohybovala hlava háďaťa na
+obrazovke v štyroch základných smeroch a za sebou zanechávala čiaru. Háďa sa neustále pohybovalo,
+klávesmi sme menili jeho smer a cieľom hry bolo čo najdlhšie nenaraziť do nakreslenej čiary).
+V riadku sú znaky, ktoré reprezentujú smer pohybu Háďaťa (H - hore, D - dole, L - vľavo, P - vpravo). Jeden
+znak symbolizuje jeden krok v danom smere. Napríklad: HHHHDDDDDDLLLLLLLDH.
+Ukážka textového súboru:
+HHHHDDDDDDLLLLLLLDH
+HHHHHHHHHHHHHHHHHHHHHHLLLLLLLLLLLLLLLLLDDDDDDDDDDDDDDDPPPPPPPPPP
+HHHHHHHHHLLLLLLLLLLLLLLLLLDDDDDDDDDDDDDDDPPPPPPPPPP
+Vytvorte program, ktorý:
+zistí počet zapísaných hier v súbore,
+zistí, koľko krokov mala najdlhšia hra,
+vytvorí kópiu textového súboru,
+kópiu vytvorí v komprimovanom tvare použitím metódy opakujúcich sa znakov. Napríklad namiesto
+postupnosti HHHHDDDDDDLLLLLLLDHH zapíše do súboru postupnosť H 4 D 6 L 7 D 1 H 2.
+13
+Otázky:
+1. Ktoré riešenie nám pomôže minimalizovať množstvo použitej pamäte?
+riešenie úlohy
+3
+Displej v električke
+V textovom súbore zastavky.txt sú názvy zastávok električkovej linky. Názov každej zastávky je v
+novom riadku. Palubný počítač električky si každé ráno načíta aktuálny textový súbor do pamäte a na
+jednoriadkovom dvadsaťznakovom displeji vypisuje názvy zástavok. Vytvorte program, ktorý bude
+simulovať činnosť palubného počítača v električke takto:
+načíta si názvy zastávok do pamäte,
+vypíše na displej názov prvej zastávky, po stlačení ľubovoľného klávesu vypíše na displej názov ďalšej
+zastávky,
+názov zastávky sa na displeji roluje sprava doľava, keď nejaká časť textu odíde z ľavej strany displeja,
+objaví sa na pravej strane,
+ak sa na displeji vypisuje názov poslednej zastávky linky, tak sa k názvu zastávky vypíše aj upozornenie,
+že treba vystúpiť.
+Ukážka displeja a priebeh zobrazenia pri rolovaní obsahu displeja:
+Otázky:
+1. Ktoré písma je vhodné použiť, ak chceme mať displej presne dvadsaťznakový?
+2. Čo by sa zmenilo v programe, ak by električka išla opačným smerom a použijeme rovnaký textový
+súbor?
+riešenie úlohy
+4
+Záznamy z meteorologických staníc
+V textovom súbore meteo
+stanice.txt sú uložené denné merania z meteorologických staníc z celého
+_
+Slovenska. Informácia z každej stanice je v jednom riadku. Riadok obsahuje: kód
+_
+stanice (3 znaky), dátum v
+tvare rrrr.mm.dd, čas v tvare hh:mm, znamienko teploty, teplotu, typ oblačnosti (JJ – jasno, PO –
+polooblačno, PJ – polojasno, OO – oblačno).
+Ukážka vstupného súboru:
+M01 2017.05.10 06:00 +10,3 PO
+M07 2017.05.10 06:00 +08,2 JJ
+M04 2017.05.10 06:00 –01,5 OO
+Vytvorte program, ktorý:
+zistí počet meraní,
+14
+vypíše iba namerané teploty,
+zistí a vypíše najvyššiu nameranú teplotu,
+zistí a vypíše kód stanice, kde bola nameraná najvyššia teplota,
+zistí a vypíše priemernú teplotu všetkých staníc.
+Otázky:
+1. Niektoré zo vstupných údajov sú v menej vhodnom tvare na spracovanie v Pythone. Ktoré údaje to sú
+a ako zmeníme ich tvar bez editovania vstupného súboru?
+riešenie úlohy
+5
+Objednané jedlá
+V textovom súbore objednane
+_jedla.txt sú uložené informácie o objednaných jedlách v školskej
+jedálni jednotlivými stravníkmi na nasledujúci deň. Informácia o jednom výbere stravníka je v jednom
+riadku. Riadok obsahuje číselný kód stravníka, ktorý je oddelený medzerou od objednaného jedla. Výber
+jedla reprezentuje jeden znak označujúci farebné označenie jedla (z - zelená, c - červená, m - modrá, o -
+oranžová). Vytvorte program, ktorý:
+z textového súboru zistí celkový počet objednaných jedál,
+spočíta počet jednotlivých jedál a vypíše ich počty (jednotlivé farby zvlášť),
+zistí, či si niektoré jedlo (jedlá) objednalo menej ako 20 ľudí, a vypíše ich farebný kód (ich označenia),
+ak si každé jedlo objednalo dostatok stravníkov, vypíše nám o tom program informáciu.
+Ukážka textového súboru:
+142 o
+362 c
+368 c
+289 m
+356 c
+70 o
+147 z
+96 z
+Otázky:
+1. Čo spraví vaše riešenie úlohy, ak je vstupom súbor bez niektorého jedla?
+2. Ako by sme mali upraviť vaše riešenie úlohy, aby sme mohli vyhodnotiť aj iné označenia jedál (pri
+rozšírení ponuky)?
+riešenie úlohy
+6
+Noty
+Vytvorte program, ktorý bude kresliť noty (celé) na notovej osnove nasledovne:
+na ploche sa nakreslí notová osnova,
+v textovom súbore noty.txt je v jednom riadku uložená postupnosť nôt (použité sú len tieto: c, d, e,
+f, g, a, h) – program prečíta prvú notu a zobrazí ju na osnove,
+postupne prečíta všetky noty a zapíše ich na osnovu,
+ak sa noty nezmestia na jednu osnovu, nakreslí sa nižšie ďalšia osnova a na nej sa pokračuje s
+kreslením nôt.
+15
+Ukážka textového súboru:
+cdefgahcdahdecdefgahhagfdec
+Napríklad pre postupnosť cdefgahhagfedcceggeccdfaafdcegegfafafggfedc sa nakreslí:
+Pomôcka:
+Celá nota sa označuje prázdnym oválom bez nožičky (zvislej čiary). V hudobnej stupnici sú tóny v poradí c d
+e f g a h. Rozdiel medzi dvomi tónmi (jedna pozícia) je polovica vzdialenosti medzi dvomi čiarami na
+osnove. Tón c sa zapisuje na druhej pozícii pod spodnou čiarou osnovy (v našej úlohe ho zapíšte bez čiarky,
+ktorá nahrádza kúsok osnovy).
+Otázky:
+1. Čo je potrebné urobiť, ak chceme, aby bol program čo najflexibilnejší, napr. na zmenu šírky grafického
+plátna?
+2. Ktorými spôsobmi môžeme z názvu noty určiť jej výšku (umiestnenie na osnove)? Ktoré z týchto
+spôsobov riešenia sú vhodnejšie? Odpoveď zdôvodnite.
+riešenie úlohy
+7
+Náhodné skúšanie
+Vytvorte program, ktorý bude slúžiť ako pomôcka pre učiteľa pri ústnom skúšaní. Predpokladajme, že v
+triede je tridsať študentov a každý študent odpovedá z vopred pripravených 50 otázok. Na zjednodušenie
+má každý študent pridelené číslo (podľa abecedy, začína sa číslom 1 a končí číslom 30). Otázky sú číslované
+číslami 1 až 50.
+Program má nasledujúce vlastnosti:
+vypíše náhodné poradie, v ktorom pôjdu študenti odpovedať,
+ku každému študentovi vypíše aj náhodné číslo otázky, z ktorej bude odpovedať,
+otázky, z ktorých študenti odpovedajú, sa nesmú opakovať,
+programu môžeme zadať počet študentov v triede a aj počet otázok. Program zistí, či nie je počet
+otázok menší ako počet študentov, a na takúto chybu nás upozorní.
+z dôvodu prekrývania sa tém otázok, v náhodnom poradí zadaných otázok nemôžu ísť za sebou dve
+párne a dve nepárne čísla otázok (pravidelne sa striedajú párne a nepárne čísla otázok). Túto
+vlastnosť doplňte do hotového programu tak, aby sme ju mohli jednoduchým zakomentovaním (len
+tej doplnenej časti) v programe nepoužiť.
+16
+Ukážka vstupu a výstupu kompletne vyriešeného programu:
+Zadaj počet študentov:8
+Zadaj počet otázok:20
+Poradie odpovedajúcich a ich číslo otázky:
+1. študent: 1, otázka:12
+2. študent: 6, otázka:1
+3. študent: 3, otázka:14
+4. študent: 4, otázka:13
+5. študent: 2, otázka:16
+6. študent: 5, otázka:5
+7. študent: 8, otázka:2
+8. študent: 7, otázka:7
+riešenie úlohy
+8
+Nájdi puknutý tanier
+Vytvorte jednoduchú hru Nájdi puknutý tanier, ktorá má tieto vlastnosti:
+v rade vedľa seba je vykreslených 10 modrých tanierov,
+každý tanier je označený písmenami A až J,
+po spustení hry je jeden náhodne vybraný tanier puknutý, no hráč to nevidí,
+úlohou hráča je kliknutím myšou označiť tanier, ktorý je puknutý,
+hra končí, keď hráč klikne na správny tanier a program zmaže taniere a vypíše hráčovi gratuláciu,
+na konci hry program vypíše písmená tanierov, na ktoré hráč klikol viackrát.
+Ukážky z hry:
+Otázky:
+1. Ako zabezpečíme, že program nebude padať po kliknutí mimo nakreslených tanierov v prípade, že
+grafické plátno má väčšie rozmery?
+riešenie úlohy
+9
+Preteky lodičiek
+Vytvorte program, ktorý simuluje preteky lodičiek. V súbore preteky_
+lodiciek
+lodicka.py sa
+_
+nachádza funkcia lodicka(x, y). Funkcia vykreslí na zadanom mieste lodičku s náhodne napnutou
+plachtou. Využite túto funkciu v programe. Funkciu nemôžete upravovať.
+import tkinter, random
+canvas = tkinter.Canvas(width=700, height=800)
+canvas.pack()
+def lodicka(x, y):
+17
+plachta = random.randint(-3, 3)
+canvas.create
+line(x, y, x, y-25, x+10+plachta, y-10, x, y-5)
+_
+canvas.create
+polygon(x-20, y, x+20, y, x+10, y+8, x-10, y+8)
+_
+Vytvorte program s nasledovnými vlastnosťami:
+Na ľavom okraji obrazovky sa vykreslí 15 lodičiek. Lodičky sa nachádzajú na zvislej úsečke (štartovacej
+čiare).
+Na pravej strane je nakreslená cieľová čiara.
+Kliknutím spustíme animáciu plávania lodičiek. Lodičky sa budú naraz pohybovať smerom vpravo, no
+zakaždým sa každá z nich posunie náhodne o 1 až 10 bodov. Vďaka využitiu funkcie lodicka bude pri
+plávaní lodičky viať plachta.
+Program skončí, keď jedna z lodičiek dosiahne pravý okraj obrazovky.
+Na obrazovke sa vypíše číslo lodičky, ktorá bola prvá.
+Ukážky z programu:
+Otázky:
+1. Ako zabezpečíme, aby sa preteky po viacnásobnom kliknutí myšou nezrýchľovali?
+2. Ako zabezpečíme, že preteky sa zastavia pri výhre prvej lodičky?
+3. Čo je potrebné upraviť v programe, aby preteky dokončili všetky lodičky?
+4. Čo sa stane, ak prídu do cieľa naraz dve lodičky? Môžu prísť do cieľa naraz dve lodičky?
+riešenie úlohy
+10
+Vykreslenie krížovky 1
+Vytvorte program, ktorý zo vstupného súboru vykreslí krížovku. Môžete použiť pripravené textové súbory:
+krizovka1-1.txt, krizovka1-2.txt. V textovom súbore jeden riadok popisuje jeden riadok krížovky.
+Na začiatku riadku je číslo, ktoré určuje, ktorý zo znakov tvorí tajničku. Napríklad '3 WHILE' znamená, že
+v krížovke je riadok s textom 'WHILE' a tretí znak tohto textu je súčasťou tajničky.
+Ukážka textového súboru:
+6 ZOZNAM
+5 CANVAS
+2 STRING
+5 CYKLUS
+5 RETURN
+3 WHILE
+1 TRUE
+18
+2 RANDOM
+Vlastnosti programu:
+prečíta do pamäte obsah textového súboru,
+obsahuje funkciu, ktorá na zadanom mieste vykreslí krížovku so zadanou veľkosťou štvorčekov,
+krížovka je vykreslená tak, že štvorčeky tajničky sú podfarbené a sú umiestnené v jednom stĺpci,
+pomocou funkcie na vykreslenie krížovky môžeme vedľa seba nakresliť vyplnenú alebo nevyplnenú
+krížovku.
+Ukážky vykreslených krížoviek:
+riešenie úlohy
+11
+Súťaž v behu
+Súťaže v behu sa zúčastnilo mnoho športovcov. Organizátor zakúpil zariadenie, ktoré dokáže automaticky
+rozpoznať športovca, ktorý príde do cieľa, a zaznamenať jeho čas v sekundách. Takto zaznamenané
+výsledky ukladá do riadkov textového súboru sutaz
+vbehu.txt. V každom riadku je uvedené priezvisko
+_
+športovca (jednoslovné) a jeho nameraný čas v sekundách.
+Ukážka textového súboru:
+Majerský 272
+Moravec 234
+Poláková 248
+Vytvorte program, ktorý:
+vypíše počet športovcov v tvare:
+Počet zúčastnených športovcov: 32
+prehľadne vypíše zoznam športovcov a ich výkonov v tvare:
+Súťažiaci Majerský dobehol do cieľa za 272 sekúnd
+Súťažiaci Moravec dobehol do cieľa za 234 sekúnd
+...
+vypíše meno najlepšieho súťažiaceho, (môžete predpokladať, že bude iba jeden),
+k menu víťaza dopíše jeho čas v tvare podľa ukážky: „3 min. 53 sek.
+"
+.
+riešenie úlohy
+12
+Vyťaženosť liniek dopravného podniku
+Mestský dopravný podnik sa rozhodol urobiť prieskum vyťaženosti svojich liniek. Pomocou automatických
+sčítacích zariadení vznikol súbor bus
+vytazenost.txt, ktorý má nasledujúci tvar:
+_
+v 1. riadku je číslo udávajúce kapacitu autobusu (max. počet ľudí),
+v každom ďalšom riadku je zapísaný počet nastupujúcich, počet vystupujúcich na zastávke a názov
+samotnej zastávky. Tieto údaje sú oddelené medzerou.
+19
+Ukážka textového súboru:
+50
+20 0 Štúrovo nám.
+35 0 Mestský park
+10 20 Dargovská
+40 20 Nemocnica
+Vytvorte program, ktorý:
+vypíše počet zastávok na trase autobusu,
+vypíše názvy zastávok – názov zastávky je dvojslovný alebo jednoslovný, zástavky budú vypísané v
+jednom riadku a budú oddelené čiarkou,
+vypíše názvy zastávok, kde po nastúpení ľudí bol autobus preplnený (nad povolenú kapacitu),
+vypíše najvyšší počet ľudí nad rámec kapacity, ak bola v nejakých častiach trasy prekročená kapacita
+autobusu.
+Otázky:
+1. Aké možné chyby v súbore sa dajú odhaliť programom (za predpokladu, že je dodržaný formát
+vstupného súboru)?
+2. Čo by sa zmenilo v programe, ak by bol súbore najprv názov zastávky a až za ním čísla o počte
+pristupujúcich a vystupujúcich?
+riešenie úlohy
+13
+Žrút
+Vytvorte hru Žrút. Po obrazovke sa bude pohybovať chrobák Žrút, ktorého smer sa mení pomocou klávesov
+w s a d a bude jesť jabĺčka z obrazovky. Po zjedení jabĺčka sa veľkosť Žrúta nezmení.
+Vytvorte program s nasledovnými vlastnosťami:
+Nakreslí na obrazovku v ľavom hornom rohu Žrúta – modrý kruh.
+Na náhodné pozície nakreslí jabĺčka - N červených kruhov (N je konštanta zadaná v programe).
+Jabĺčka sa môžu aj prekrývať, ale nesmú vytŕčať z plochy ani sa prekrývať s počiatočnou pozíciou
+Žrúta.
+Po spustení programu sa Žrút bude neustále pohybovať smerom doprava.
+Smer pohybu Žrúta (hore, dole, vľavo, vpravo) je možné kedykoľvek zmeniť klávesmi w s a d.
+Keď Žrút prejde cez jabĺčko, jabĺčko zmizne. Hra sa zastaví a skončí výhernou hláškou, keď Žrút zje
+všetky jabĺčka.
+Ukážka z hry:
+riešenie úlohy
+20
+14
+Skok do diaľky
+Medzinárodná svetová športová organizácia vyhlásila celosvetové preteky v skoku do diaľky amatérov.
+Každý súťažiaci mal päť pokusov. Vyhral súťažiaci, ktorý skočil najďalej v rámci svojich piatich pokusov.
+Športové výsledky všetkých zúčastnených sa spojili do jediného textového súboru skok
+do
+dialky.txt.
+_
+_
+Každý riadok súboru skok
+do
+dialky.txt mal nasledujúci formát:
+_
+_
+Meno kod
+krajiny vykon1 vykon2 vykon3 vykon4 vykon5
+_
+pričom meno je jednoslovné (neobsahuje medzery), kód krajiny pozostáva z troch veľkých písmen anglickej
+abecedy a výkony sú celé čísla (sú od seba oddelené medzerou).
+Ukážka vstupného súboru:
+Phatner CAN 568 570 580 575 560
+Nerenko RUS 580 578 550 573 570
+Rantito ITA 555 558 560 560 564
+Vytvorte program, ktorý:
+vypíše zoznam krajín, z ktorých boli športovci účastníkmi súťaže,
+vypíše počty súťažiacich z jednotlivých krajín,
+vypíše meno celkového víťaza – kto skočil najďalej. Ak ich bolo viac, vypíše všetkých.
+riešenie úlohy
+15
+Zobrazenie zátvoriek
+V matematike i programovaní sa často stretávame s výrazmi so zátvorkami. Ak je týchto zátvoriek viacero,
+často sa stávajú neprehľadnými – nevieme, ktorá zátvorka má kde koniec. Vytvorte program, ktorý v
+zadanom zápise zobrazí príslušné zátvorky rovnakou farbou. Zápis okrem okrúhlych zátvoriek môže
+obsahovať rôzne znaky. S iným typom zátvoriek nepočítame.
+Vlastnosti programu:
+Načíta zápis so zátvorkami z klávesnice a vypíše ho do grafickej plochy.
+Vypíše, či je zadaný výraz správne uzátvorkovaný.
+Výraz je správne uzátvorkovaný vtedy, keď spĺňa dve podmienky:
+1. každá ľavá zátvorka má práve jednu pravú zátvorku,
+2. pravá zátvorka nasleduje po svojej ľavej zátvorke,
+Napríklad ((xx)y(xx)) je správne uzátvorkovaný, (aa))bb( nie je správne uzátvorkovaný.
+Ak je výraz správne uzátvorkovaný, zobrazí príslušné zátvorky rovnakou farbou. Môžeme
+predpokladať, že nebude potrebné použiť viac ako 7 farieb.
+Ukážka programu:
+riešenie úlohy
+16
+Mená v stĺpcoch
+Vytvorte program, ktorý spracuje export mien zamestnancov z informačného systému firmy. Zo vstupného
+súboru chceme vytvoriť prehľadnejšiu dvojstĺpcovú tabuľku. V nej budú mená pod sebou a vedľa mien
+priezviská zarovnané medzerami do stĺpca pod sebou (viď ukážku). Zoznam zamestnancov v textovom
+súbore mena
+zamestnancov.txt obsahuje najprv iba mená (v každom riadku jedno meno – môže byť aj
+_
+21
+viacslovné) a ďalšie riadky obsahujú iba príslúchajúce priezviská (poradie mien a priezvisk je zachované).
+Ukážka textového súboru mena
+zamestnancov.txt:
+_
+Mária Lujza
+Andrej
+Jean Michel
+Phillippe
+Poláková
+Veľký
+Portree
+de Ryannitto
+Vytvorte program, ktorý:
+vypíše počet mien v súbore,
+vypíše dĺžku najdlhšieho krstného mena (viac krstných mien považujeme za jedno dlhšie krstné meno)
+a najdlhšieho priezviska,
+vytvorí výsledný súbor vystup.txt podľa zadania.
+Správny výstupný súbor:
+Mária Lujza Poláková
+Andrej Veľký
+Jean Michel Portree
+Phillippe de Ryannitto
+Otázky:
+1. Ako treba zmeniť program, ak v dĺžke krstného mena chceme zistiť aj dĺžku jednotlivých krstných mien
+jedného zamestnanca?
+riešenie úlohy
+17
+Tajná tabuľka
+Dvaja kamaráti sa dohodli, že si budú posielať zašifrovaný text. Text budú kódovať po znakoch tak, že každé
+písmeno nahradia číslom políčka vo svojej tajnej tabuľke. Tabuľka má 10 políčok očíslovaných 0 až 9. V
+každom políčku tajnej tabuľky sú tri za sebou idúce veľké znaky anglickej abecedy (v poslednom políčku iba
+posledné dve písmená abecedy). Medzera má samostatné políčko s číslom 0 – viď ukážku tabuľky. Keďže
+každé políčko okrem nultého obsahuje viac znakov, tak číslo políčka sa zobrazí dvojmo, ak ide o druhé
+písmeno z políčka, resp. trojmo, ak ide o tretie písmeno (viď ukážku vstupu a výstupu).
+Tajná tabuľka:
+Vytvorte program, ktorý:
+načíta vetu zo vstupu (predpokladajme, že používateľ zadá iba veľké písmená a medzery), zašifruje ju
+na čísla políčok podľa zadania a vypíše zašifrovanú vetu na obrazovku,
+vypíše na obrazovku informáciu o tom, ktoré číslo políčka sa v šifre vyskytlo najčastejšie,
+ak je takých políčok viac, vypíše čísla všetkých políčok.
+Ukážka vstupu:
+AKO SA MAS
+22
+Príklad zašifrovanej vety:
+1 44 555 0 7 1 0 5 1 7
+Najčastejšie zvolené políčka: 5
+Otázky:
+1. Čo môžeme spraviť so zadanou vetou, ak obsahuje aj iné znaky ako veľké písmená a medzery?
+2. Ak porovnáme dĺžku vstupu a dĺžku výstupu, v akom budú vzťahu?
+3. Je potrebné, aby vo výstupe boli čísla oddelené medzerami?
+riešenie úlohy
+18
+Kresliaci robot 1
+Kresliaci robot poslúcha zadané príkazy a podľa nich kreslí obrázky. Robot má svoju pozíciu a smer, ktorým
+je natočený (iba hore / dole / vpravo / vľavo).
+Robot pozná nasledujúce príkazy:
+ciara <dlzka> - nakreslí čiaru zadanej dĺžky, napr. ciara 50 a presunie sa na koniec tejto čiary,
+vlavo – otočí sa o 90 stupňov vľavo (bez akéhokoľvek kreslenia),
+vpravo – otočí sa o 90 stupňov vpravo (bez akéhokoľvek kreslenia).
+Vytvorte program, ktorý bude simulovať kresliaci robot. Robot sa bude pohybovať v grafickej ploche a
+vykonávať príkazy, ktoré mu zadá používateľ. Samotný robot nezobrazujte. Na začiatku programu je robot
+umiestnený v strede grafickej plochy a je natočený smerom hore. Príkaz používateľ napíše do widgetu
+entry a potvrdí ho tlačidlom Vykonaj. Prikaz sa ihneď vykoná. Program bude mať aj tieto vlastnosti:
+umožní zadávanie príkazu ciara <dlzka>; robot teda kreslí čiaru smerom hore,
+umožní aj zadávanie príkazu vlavo; ďalšia čiara sa tak už bude kresliť daným smerom,
+umožní aj zadávanie príkazu vpravo.
+Napríklad, ak robot má v zadaní nasledovnú postupnosť príkazov:
+ciara 50
+vpravo
+ciara 30
+vlavo
+ciara 50
+vlavo
+ciara 100
+robot nakreslí:
+riešenie úlohy
+23
+19
+Preklopenie obrázka
+V súbore preklopenie
+obrazka.txt je zapísaný čiernobiely obrázok. V prvom riadku súboru sú
+_
+rozmery obrázka - prvé číslo predstavuje šírku obrázka (počet pixelov v riadku) a druhé číslo predstavuje
+jeho výšku (počet pixelov v stĺpci). Každý riadok obrázka je zapísaný v samostatnom riadku textového
+súboru. Tieto riadky nasledujú postupne za prvým riadkom s jeho rozmermi. Riadok obrázka je zapísaný
+číslami 0 a 1, pričom 0 predstavuje bielu farbu a 1 čiernu. Čísla sú oddelené medzerou.
+Ukážka formátu textového súboru:
+8 5
+0 1 0 1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1 0 1
+Vytvorte program, ktorý:
+vypíše celkový počet pixelov obrázka a počet jednotiek,
+vykreslí obrázok zadaný v súbore na obrazovku; každý pixel vykreslí ako malý štvorček. V programe
+nastavte jeho veľkosť pomocou premennej strana.
+po stlačení tlačidla vykreslí pôvodný obrázok preklopený podľa osi Y.
+Ukážka obrazovky podľa popisu v súbore preklopenie
+obrazka.txt a ukážka preklopeného obrázka:
+_
+Otázky:
+1. Čo sa zmení v riešení úlohy, ak by sme nulou kódovali čiernu farbu a jednotkou bielu farbu?
+2. Aký formát textového súboru by ste navrhli na ušetrenie jeho miesta?
+3. Čo by sa zmenilo v programe, ak by čísla 0 a 1 vo vstupnom súbore neboli oddelené medzerou, ale
+nasledovali by tesne za sebou?
+riešenie úlohy
+20
+Tabuľka početností
+Pri dešifrovaní niektorých šifier nám môže pomôcť frekvenčná analýza zašifrovaného textu. To znamená,
+že si najprv zistíme, ako často sa znaky abecedy vyskytujú v šifrovanom texte, a to nám môže pomôcť určiť
+šifru. Vytvorte program, ktorý nám analyzuje vstupný text zo súboru s názvom
+tabulka
+_pocetnosti.txt a spraví frekvenčnú analýzu znakov nasledovne:
+zobrazí text z textového súboru na obrazovku,
+24
+vypíše jednotlivé počty znakov anglickej abecedy v tvare znak – počet
+_
+výskytov; malé a veľké
+písmená nerozlišuje, ostatné znaky ignoruje,
+vypíše zoznam znakov, ktoré sa v texte vôbec nevyskytli.
+Ukážka súboru:
+THE COMMISSION
+Article 1
+The Commission shall act collectively in accordance with these Rules
+and in compliance with the political guidelines laid down by
+the President.
+Article 2
+In compliance with the political guidelines laid down by the President,
+the Commission shall establish its priorities and each year adopt its
+work programme.
+Ukážka časti výstupu:
+Počty jednotlivých znakov v texte:
+A - 208
+B - 63
+C - 130
+D - 107
+E - 434
+riešenie úlohy
+21
+Poprehadzovaný text 1
+Výskumy prezradili jednu zaujímavú vec. Človek dokáže prečítať slová aj bez toho, aby jednotlivé písmená
+dávali zmysel. Je to spôsobené tým, že mozog číta slová ako celok, nie po jednotlivých písmenách. Stačí,
+aby bolo prvé a posledné písmeno na tom istom mieste, tak ako v klasickom slove. Po anglicky sa to volá
+Scrambled text, čiže poprehadzovaný text (http://www.mrc-cbu.cam.ac.uk/~mattd/Cmabrigde/).
+V textovom súbore poprehadzovany_
+text1
+vstup.txt je pripravený vstupný súbor. Vytvorte
+_
+program, ktorý:
+prečíta a vypíše textový súbor,
+v texte identifikuje jednotlivé slová (predpokladajme, že text obsahuje iba slová a medzery, a žiadne
+iné znaky neobsahuje),
+v slove náhodne poprehadzuje písmená, okrem prvého a posledného písmena,
+takto transformovaný text vypíše na obrazovku,
+takto transformovaný text uloží do textového súboru poprehadzovany
+text1.txt.
+_
+Ukážka vstupného textového súboru:
+Výskumy prezradili jednu zaujímavú vec
+Tou je že človek môže prečítať slová aj bez toho
+aby jednotlivé písmená dávali zmysel
+Je to spôsobené tým že mozog číta slová ako celok
+Ukážka výstupného textového súboru:
+Vsuýmky pdrirlazei jdenu zvjaauímú vec
+Tou je že čevlok môže pčíertať svolá aj bez toho
+aby jvtdoeliné písmneá dalávi zymsel
+Je to spôbeonsé tým že mzoog číta svloá ako cloek
+25
+Otázky:
+1. Ak by text obsahoval aj interpunkčné znamienka, ako by to ovplyvnilo riešenie úlohy?
+2. Ktoré slová sa nebudú javiť ako poprehadzované vo výstupnom texte?
+riešenie úlohy
+22
+Poprehadzovaný text 2
+Výskumy prezradili jednu zaujímavú vec. Tou je, že človek môže prečítať slová aj bez toho, aby jednotlivé
+písmená dávali zmysel. Je to spôsobené tým, že mozog číta slová ako celok, nie po jednotlivých písmenách.
+Stačí, aby bolo prvé a posledné písmeno na tom istom mieste, tak ako v klasickom slove. Po anglicky sa to
+volá Scrambled text, čiže poprehadzovaný text (http://www.mrc-cbu.cam.ac.uk/~mattd/Cmabrigde/).
+V textovom súbore poprehadzovany_
+text
+vstup2.txt je pripravený vstupný súbor.
+_
+V programe poprehadzovany_
+text2
+_pomiesaj.py je funkcia, ktorá vráti náhodne zamiešaný reťazec.
+Viď ukážku:
+import random
+def pomiesaj(retazec):
+pismenka = list(retazec)
+random.shuffle(pismenka)
+return ''
+.join(pismenka)
+Vytvorte program, ktorý:
+prečíta a vypíše textový súbor,
+v texte identifikuje jednotlivé slová, pričom nebude brať iné znaky ako súčasť slova - napríklad
+interpunkčné znamienka, číslice a pod. (tieto znaky sa nachádzajú iba na začiatku alebo konci slova a
+nie sú umiestnené v texte samostatne),
+v slove náhodne poprehadzuje písmená, okrem prvého a posledného písmena, na poprehadzovanie
+využite pripravenú funkciu pomiesaj,
+takto transformovaný text vypíše na obrazovku, súčasťou transformovaného textu budú aj pôvodné
+znaky (napr. interpunkčné znamienka),
+takto transformovaný text uloží do textového súboru poprehadzovany
+text.txt.
+_
+Ukážka vstupného textového súboru:
+Ako? Naozaj to prečítame? Text:
+Výskumy prezradili jednu zaujímavú vec.
+Tou je, že človek môže prečítať slová aj
+bez toho, aby jednotlivé písmená dávali zmysel.
+Ukážka výstupného textového súboru:
+Ako? Nzoaaj to pmčríeate? Txet:
+Výmkusy plrezradii jdneu zajímvauú vec.
+Tou je, že čoevlk mžôe príačteť svolá aj
+bez toho, aby jetovldnié pmsíená dalvái zemsyl.
+Otázky:
+1. Ktoré slová sa nebudú javiť ako poprehadzované vo výstupnom texte?
+riešenie úlohy
+26
+23
+Zašifrovaný text 1
+Vytvorte program, ktorý bude šifrovať / dešifrovať textový súbor nasledovným spôsobom:
+Od používateľa program načíta šifrovací kľúč. Kľúčom je slovo zložené z malých písmen bez diakritiky.
+Od používateľa načíta textový reťazec. Vstupný reťazec zašifruje. Šifruje iba písmená malej abecedy
+(bez diakritiky). Každý znak zašifruje posunom v malej abecede, pričom veľkosť posunu je daná
+kľúčom (príslušným písmenom z kľúča). Napríklad písmeno c v kľúči znamená, že vstupný znak
+posunieme v abecede o pozíciu c, čiže o 3 znaky. Nasledujúci znak zašifruje posunom nasledujúceho
+znaku v kľúči. V prípade, že posun je za posledné písemno abecedy, posunie ho na prvé písmená v
+abecede (podľa daného posunu).
+vstup: maturujeme v pythone
+kľúč: abc
+priložený kľúč: abcabcabcabcabcabcab
+posun: 1231231231-3-2312312
+výstup: ncwvtxkgpf y rbujrog
+Program číta riadky z textového súboru a každý riadok zašifruje (od používateľa zistí kľúč). V riadku
+šifruje iba písmená malej abecedy (bez diaktiriky). Zašifrovaný text zapíše do súboru.
+Program zistí od používateľa, či chce textový súbor zašifrovať alebo dešifrovať, zistí kľúč a zadaný
+textový súbor zašifruje / dešifruje do výstupného súboru.
+Vstupný nezašifrovaný text sa nachádza v súbore vstupny_
+text.txt. Zašifrovaný text s kľúčom abc sa
+nachádza v súbore zasifrovany_
+text
+1.txt.
+_
+Otázky:
+1. V čom sa líši a čo má spoločné takéto šifrovanie a dešifrovanie?
+2. Ako sa zašifrujú znaky s mäkčeňmi a dĺžňami?
+3. Prečo sa môže stať, že rovnaké písmená sa zašifrujú na rôzne písmená?
+4. Čo sa stane, ak je kľúč dlhší ako vstupný reťazec?
+5. Môžeme pri použití rovnakého kľúča dostať rôzne zašifrované výstupy? Odpoveď zdôvodnite.
+riešenie úlohy
+24
+Zašifrovaný text 2
+Vytvorte program, ktorý bude šifrovať / dešifrovať textový súbor nasledovným spôsobom:
+Program šifruje len znaky malej abecedy bez diakritiky.
+Každé písmeno posunie v abecede o rovnakú, vopred danú hodnotu (posledné znaky abecedy posúva
+na znaky znovu od začiatku abecedy).
+Program zadaným posunom (načíta ho zo vstupu) zašifruje jeden riadok (načíta ho zo vstupu).
+Program číta riadky z textového súboru a každý riadok zašifruje náhodným posunom z intervalu 1 až
+25 (celý riadok zašifruje rovnakým posunom).
+Zašifrované riadky vstupného textového súboru zapíše do výstupného textového súboru, pričom
+použitý posun zašifruje na písmeno malej abecedy a pridá ho na začiatok zapísaného riadku .
+Program zistí od používateľa, či chce textový súbor zašifrovať alebo dešifrovať, a zadaný textový
+súbor zašifruje / dešifruje do výstupného súboru.
+Vstupný nezašifrovaný text sa nachádza v súbore vstupny_
+text.txt. Zašifrovaný text sa nachádza v
+súbore zasifrovany_
+text
+2.txt.
+_
+Ukážka vstupného textového súboru:
+CIA dokázala sledovať polohu osoby. Vďaka Wi-Fi sieťam
+27
+Jednoduchá a pritom nenápadná technika umožnila pracovníkom CIA sledovanie cieľových osô
+Organizácia WikiLeaks zverejnila ďalšiu časť materiálov informujúcich o hackerských
+Ukážka výstupného textového súboru:
+bCIA fqmábcnc ungfqxcť rqnqjw quqda. Vďcmc Wk-Fk ukgťco
+vJazjkzqydá w lnepki jajálwzjá paydjegw qikžjehw lnwykrjígki CIA ohazkrwjea yeaľkrýyd ko
+mOetnavmápvn WvxvLrnxf mirerwavyn ďnyšvh čnfť zngreváybi vasbezhwúpvpu b unpxrefxýpu
+Otázky:
+1. V čom sa líši a čo má spoločné takéto šifrovanie a dešifrovanie?
+2. Ako sa zašifrujú znaky s mäkčeňmi a dĺžňami?
+3. Môže sa stať, že rovnaké písmená sa zašifrujú na rôzne písmená?
+4. Aká bude veľkosť výstupného súboru v porovnaní s veľkosťou vstupného súboru?
+5. Môžeme pri viacnásobnom spustení programu získať rôzne výstupné súbory? Odpoveď zdôvodnite.
+riešenie úlohy
+25
+Lotéria
+Vytvorte program na simuláciu číselnej lotérie. V lotérii sa žrebuje 6 čísel z čísel od 1 do 49. Vytvorte
+program, ktorý:
+na vstupe prečíta tipy na šesť čísel od používateľa. Používateľ zadáva čísla v jednom vstupnom riadku
+a oddelí ich medzerami,
+simuluje žrebovanie a vypíše 6 vyžrebovaných čísel,
+porovná naše tipy so žrebovaním a zobrazí uhádnuté čísla a počet uhádnutých čísel,
+porovná vyžrebované čísla so všetkými tipmi účastníkov lotérie. Tipy účastníkov lotérie sú uvedené v
+textovom súbore loteria
+2.txt (tipy menšieho počtu účastníkov sa nachádzajú v súbore
+_
+loteria
+1.txt). Na každom riadku je 6 čísel. Čísla sú oddelené medzerou. Jeden riadok
+_
+reprezentuje jedno tipovanie jedného účastníka,
+vypíše počet účastníkov, ktorí správne tipovali práve jedno číslo, práve dve čísla, práve tri čísla, práve
+päť čísel a práve šesť čísel.
+Ukážka vstupného textového súboru loteria
+_
+1.txt:
+32 49 38 11 13 15
+40 48 36 27 43 26
+8 31 2 40 48 42
+19 25 4 12 3 46
+20 30 42 43 35 48
+21 41 25 32 6 4
+40 13 33 29 1 46
+Otázky:
+1. Môžeme tipy a žrebovanie porovnať aj bez zoradenia čísel?
+2. Ako zabezpečíme, aby sa v žrebovaní čísla neopakovali?
+riešenie úlohy
+28
+26
+Krajina
+Pomocou programu môžeme generovať a vykreslovať náhodnú krajinu. Vytvorte program, ktorý:
+vygeneruje údaje pre kopec, pričom si najprv náhodne určí x-ovú pozíciu vrcholu a y-ovú súradnicu
+počiatočnej výšky kopca. Pre kopec platí, že jeho výška je v prvej časti (pred vrcholom) neklesajúca a
+za vrcholom nerastúca. Zmena v reliéfe kopca môže byť každých 10 bodov a je náhodná voči
+predchádzajúcemu stavu výšky.
+vykreslí kopec pomocou príkazu canvas.create
+_polygon(). Farba kopca je niektorý náhodný
+odtieň zelenej farby.
+sa náhodne rozhodne, či ide kresliť kopec alebo údolie (či je najprv neklesajúca postupnosť a potom
+nerastúca alebo opačne) a vykreslí jeden kopec alebo jedno údolie.
+opakovane vykreslí viac náhodných kopcov / údolí, čím vznikne vygenerovaná krajina,
+po stlačení medzery nakreslí novú sériu náhodných kopcov a údolí.
+Ukážka jedného kopca alebo jedného údolia:
+Ukážka viacerých kopcov a údolí:
+Otázky:
+1. Navrhnite formát textového súboru na uloženie údajov nakreslenej a vygenerovanej krajiny.
+2. Dá sa z ukážky určiť, koľko kopcov (resp. údolí) program vygeneroval? Zdôvodnite svoju odpoveď.
+riešenie úlohy
+27
+Vírus
+Andrea má zavírený počítač. Vírus mení obsah textových súborov. Niekedy zmení poradie riadkov v súbore,
+niekedy zmení poradie slov v riadku a niekedy aj otočí celé slová (zapíše ich odzadu). Na zjednodušenie
+riešenia považujme za slovo všetko, čo je zapísané medzi dvomi medzerami (resp. text na začiatku a na
+konci riadku).
+Vytvorte program, ktorý:
+prečíta a vypíše textový súbor virus.txt,
+sa náhodne rozhodne, či bude meniť poradie riadkov. Zmení poradie riadkov, ak sa tak rozhodol.
+pre každý riadok sa náhodne rozhodne, či zmení poradie slov v riadku a poradie prípadne zmení,
+29
+pre každé slovo sa náhodne rozhodne, či ho otočí. Ak sa tak rozhodol, slovo otočí.
+takto transformovaný text uloží do textového súboru virus
+vystup.txt.
+_
+Ukážka vstupného textového súboru:
+Francúzi testujú na cestných pirátoch nové technológie
+Kamerový záznam z dronu uvádza hliadky do chodu.
+Najčastejšie platia pokuty kamionisti.
+Ukážka výstupného textového súboru:
+Najčastejšie platia ytukop kamionisti.
+technológie hcýntsec hcotárip testujú na évon Francúzi
+záznam azdávu od .udohc z dronu ykdailh Kamerový
+Otázky:
+1. Čo spraví program s prázdnym riadkom?
+2. Je potrebné načítať celý textový súbor do pamäte? Aké to má výhody a nevýhody?
+riešenie úlohy
+28
+Hlasovanie 1
+V textovom súbore hlasovanie
+1.txt (k dispozícii je aj súbor hlasovanie
+2.txt) je uložený priebeh
+_
+_
+SMS hlasovania divákov v reality show. V každom riadku je uložené práve jedno telefónne číslo, na ktoré
+prišla SMS-ka. Diváci mohli hlasovať na čísla 5220 až 5229. V textovom súbore hlasovanie
+_
+vypadnuti.txt je
+zoznam už vypadnutých hráčov (ich hlasovacie čísla, každé je na samostatnom riadku).
+Ukážka časti vstupného textového súboru hlasovanie
+1.txt:
+_
+5225
+5227
+5225
+5224
+5225
+5227
+Ukážka textového súboru hlasovanie
+vypadnuti.txt:
+_
+5227
+5224
+Vytvorte program, ktorý zistí a vypíše:
+celkový počet zaslaných SMS,
+koľko hlasov dostal každý zo súťažiacich,
+ktorý súťažiaci dostal najmenej hlasov, a teda nepostupuje do ďalšieho kola,
+ktorý súťažiaci dostal najmenej hlasov, a teda nepostupuje do ďalšieho kola, pričom neberie do úvahy
+hlasy zaslané vypadnutým súťažiacim.
+Otázky:
+1. Čo sa stane, ak súbor hlasovanie
+vypadnuti.txt bude prázdny?
+_
+riešenie úlohy
+30
+29 Kompresia obrázka
+V súbore kompresia
+obrazka
+1.txt je zapísaný čiernobiely obrázok (k dispozícii sú aj súbory:
+_
+_
+kompresia
+obrazka
+2.txt a kompresia
+obrazka
+3.txt). V prvom riadku súboru sú rozmery
+_
+_
+_
+_
+obrázka - prvé číslo predstavuje šírku obrázka (počet pixelov v riadku) a druhé číslo predstavuje jeho výšku
+(počet pixelov v stĺpci). Každý riadok obrázka je zapísaný v samostatnom riadku textového súboru. Tieto
+riadky nasledujú postupne za prvým riadkom s jeho rozmermi. Riadok obrázka je zapísaný číslami 0 a 1,
+pričom 0 predstavuje čiernu farbu a 1 bielu. Čísla nie sú ničím oddelené.
+Vytvorte program, ktorý skomprimuje zápis núl a jednotiek. Program bude mať tieto vlastnosti:
+Prečíta a vypíše zo súboru šírku a výšku obrázka a počet všetkých bodov.
+Prečíta prvý riadok obrázka a pošle ho na spracovanie funkcii spracuj
+riadok().
+_
+Obsahuje funkciu spracuj
+riadok(), ktorá z postupnosti núl a jednotiek vyrobí výstupný textový
+_
+reťazec. Vo výstupe budú za sebou idúce nuly nahradené ich počtom a rovnako za sebou idúce
+jednotky budú nahradené ich počtom. Na začiatku výstupného reťazca bude počet núl na začiatku
+vstupného reťazca. V prípade, že vstupný reťazec začína jednotkami, na začiatku výstupného reťazca
+bude 0, vyjadrujúca nula núl na začiatku vstupu.
+Prečíta všetky riadky súboru, transformuje ich pomocou funkcie spracuj
+riadok() a vytvorí nový
+_
+textový súbor s názvom kompresia
+obrazka
+vystup.txt. Aj vo výstupnom súbore bude v
+_
+_
+prvom riadku uložená veľkosť obrázka.
+Ukážka vstupného textového súboru:
+20 5
+11100110000000011111
+00111010001111111100
+11111111111111111111
+00000000000000000000
+00000001111100000111
+Ukážka výstupného textového súboru:
+20 5
+0 3 2 2 8 5
+2 3 1 1 3 8 2
+0 20
+20
+7 5 5 3
+Otázky:
+1. Pre aký riadok bude vo výstupnom súbore len jedno číslo?
+2. Aké riadky budú mať viac čísel vo výstupnom súbore?
+3. Ako bude vyzerať najdlhší možný výstupný riadok?
+4. Aký obrázok (pri rovnakej veľkosti celkového počtu bodov) bude mať najkratší výstupný súbor?
+riešenie úlohy
+31
+30
+NIM
+V hre NIM dvaja hráči z 15 zápaliek striedavo odoberajú jednu, dve alebo tri zápalky. Kto odoberie poslednú
+zápalku, vyhráva. V zdrojovom kóde NIM
+zadanie.py je pripravená funkcia na vykreslenie jednej zápalky.
+_
+Pripravený program s kreslením zápalky:
+import tkinter, random
+canvas = tkinter.Canvas(width=650, height=200)
+canvas.pack()
+def zapalka(x, y):
+canvas.create
+canvas.create
+line(x, y, x, y+100, width=5, fill='yellow')
+_
+oval(x-5, y-5, x+5, y+8, fill='brown'
+_
+, outline='brown')
+Ukážka z hry:
+Vo svojom riešení využite tento program a doplňte ho tak, aby mal tieto vlastnosti:
+na obrazovku sa vykreslí vedľa seba 15 zápaliek a vypíše sa ich počet,
+program striedavo vyzýva hráčov, aby zadali počet odobratých zápaliek,
+pomocou klávesnice stlačením klávesov 1, 2 alebo 3 hráč určí počet odobratých zápaliek,
+po každom ťahu sa aktualizuje obrazovka so zobrazenými zápalkami a ich počtom,
+hráč, ktorý odoberie poslednú zápalku, vyhráva a program mu zagratuluje.
+Otázky:
+1. Čo sa stane, ak sú v hre už iba dve zápalky a hráč odoberie 3?
+2. Ako zabazpečíme, aby po vypísaní gratulácie sme už neťahali zápalky?
+riešenie úlohy
+31
+Čiernobiely obrázok
+V súbore ciernobiely_
+obrazok
+1.txt je zapísaný čiernobiely obrázok (k dispozícii sú aj súbory:
+_
+ciernobiely_
+obrazok
+_
+2.txt a ciernobiely_
+obrazok
+3.txt). V prvom riadku súboru sú rozmery
+_
+obrázka - prvé číslo predstavuje šírku obrázka (počet pixelov v riadku) a druhé číslo predstavuje jeho výšku
+(počet pixelov v stĺpci). Každý riadok obrázka je zapísaný v samostatnom riadku textového súboru. Tieto
+riadky nasledujú postupne za prvým riadkom s jeho rozmermi. V riadku obrázka sú uložené farby pixelov
+(odtieň sivej farby). Farba jedného pixela je zapísaná dvojciferným číslom v šestnástkovej sústave, čiže čísla
+od 00 do ff. Farba vyjadruje odtieň sivej farby (len si pripomeňme, že všetky odtiene sivej farby majú
+rovnakú hodnotu červenej, zelenej a modrej farby v modeli RGB). Čísla reprezentujúce pixely nie sú v riadku
+ničím oddelené (nasledujú tesne za sebou).
+Ukážka formátu textového súboru:
+20 5
+ffa315070300aa0000000000000000ffffffffff
+00000000000000000000afbfcfdfef0000000000
+0000000000ffffffffff0000000000ffffffffff
+32
+ffffffffff0000000000ffffffffff000000ffff
+00102030405060708090a0b0c0d0e0f0001f2f3f
+Vytvorte program, ktorý:
+prečíta zo súboru veľkosť obrázka a podľa nej nastaví veľkosť grafickej plochy,
+prečíta prvý riadok obrázka a vykreslí ho do grafickej plochy obdĺžnikom veľkosti 1x1 pixel podľa farby
+v súbore (odtieňov sivej),
+podľa údajov v súbore vykreslí do grafickej plochy celý obrázok, pričom program nezaťažuje pamäť a
+všetky údaje číta a vykresľuje priamo zo súboru,
+po stlačení tlačidla Len čierna a biela vykreslí body obrázka len s úplne bielou farbou alebo úplne
+čiernou farbou. Farbu program vypočíta podľa odtieňa sivej - určí, či je v spodnej / hornej polovici
+tmavosti sivých odtieňov.
+Ukážka vykreslenia jednotlivých textových súborov a následnej transformácie obrázka len do čiernej a
+bielej farby:
+Otázky:
+1. Ako výrazne by sa zmenila veľkosť vstupného súboru, ak by boli jednotlivé farby pixelov oddelené
+napríklad medzerou?
+2. Zhodnoťte, či je vhodnejšie v takýchto textových súboroch používať čísla v šestnástkovej alebo
+desiatkovej sústave.
+3. Ako by sme zistili číslo najtmavšej použitej farby?
+riešenie úlohy
+33
+32 Konverzia súboru 1
+V súbore ciernobiely_
+obrazok
+1.txt je zapísaný čiernobiely obrázok (k dispozícii sú aj súbory:
+_
+ciernobiely_
+obrazok
+_
+2.txt a ciernobiely_
+obrazok
+3.txt). V prvom riadku súboru sú rozmery
+_
+obrázka - prvé číslo predstavuje šírku obrázka (počet pixelov v riadku) a druhé číslo predstavuje jeho výšku
+(počet pixelov v stĺpci). Každý riadok obrázka je zapísaný v samostatnom riadku textového súboru. Tieto
+riadky nasledujú postupne za prvým riadkom s jeho rozmermi. V riadku obrázka sú uložené farby pixelov
+(odtieň sivej farby). Farba jedného pixela je zapísaná dvojciferným číslom v šestnástkovej sústave, čiže čísla
+od 00 do ff. Farba vyjadruje odtieň sivej farby (len si pripomeňme, že všetky odtiene sivej farby majú
+rovnakú hodnotu červenej, zelenej a modrej farby v modeli RGB). Čísla reprezentujúce pixely nie sú v riadku
+ničím oddelené (nasledujú tesne za sebou).
+Ukážka formátu vstupného textového súboru:
+20 5
+ffa315070300aa0000000000000000ffffffffff
+00000000000000000000afbfcfdfef0000000000
+0000000000ffffffffff0000000000ffffffffff
+ffffffffff0000000000ffffffffff000000ffff
+00102030405060708090a0b0c0d0e0f0001f2f3f
+Vytvorte program, ktorý:
+prečíta a vypíše zo súboru šírku a výšku obrázka a počet všetkých bodov,
+prečíta prvý riadok obrázka a pošle ho na spracovanie funkcii spracuj
+riadok(),
+_
+obsahuje funkciu spracuj
+riadok(), ktorá z textového reťazca - postupnosti farieb odtieňov sivej
+_
+vyrobí výstup - textový reťazec z 0 a 1. Na výstupe budú 0 a 1 oddelené medzerou. Čísla šestnástkovej
+sústavy, ktoré sú v prvej polovici (tmavšie farby), sa transformujú na nulu, a čísla, ktoré sú v hornej
+polovici (svetlejšie odtiene), sa transformujú na číslo 1.
+prečíta všetky riadky súboru, transformuje ich pomocou funkcie spracuj
+riadok() a vytvorí nový
+_
+textový súbor s názvom konverzia
+suboru
+1
+vystup.txt. Aj vo výstupnom súbore bude v
+_
+_
+_
+prvom riadku uložená veľkosť obrázka.
+Ukážka formátu výstupného textového súboru:
+20 5
+1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1
+0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0
+0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1
+1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 0 0 0 1 1
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0
+Otázky:
+1. Ako výrazne by sa zmenila veľkosť vstupného súboru, ak by boli jednotlivé farby pixelov oddelené
+napríklad medzerou?
+2. Zhodnoťte, či je vhodnejšie v takýchto textových súboroch používať čísla v šestnástkovej alebo
+desiatkovej sústave.
+3. Ako by sme zistili číslo najtmavšej použitej farby?
+4. V akom vzťahu je veľkosť vstupného a výstupného súboru?
+riešenie úlohy
+34
+33 Spektrum odtieňov
+V súbore ciernobiely_
+obrazok
+1.txt je zapísaný čiernobiely obrázok (k dispozícii sú aj súbory:
+_
+ciernobiely_
+obrazok
+_
+2.txt a ciernobiely_
+obrazok
+3.txt). V prvom riadku súboru sú rozmery
+_
+obrázka - prvé číslo predstavuje šírku obrázka (počet pixelov v riadku) a druhé číslo predstavuje jeho výšku
+(počet pixelov v stĺpci). Každý riadok obrázka je zapísaný v samostatnom riadku textového súboru. Tieto
+riadky nasledujú postupne za prvým riadkom s jeho rozmermi. V riadku obrázka sú uložené farby pixelov
+(odtieň sivej farby). Farba jedného pixela je zapísaná dvojciferným číslom v šestnástkovej sústave, čiže čísla
+od 00 do ff. Farba vyjadruje odtieň sivej farby (len si pripomeňme, že všetky odtiene sivej farby majú
+rovnakú hodnotu červenej, zelenej a modrej farby v modeli RGB). Čísla reprezentujúce pixely nie sú v riadku
+ničím oddelené (nasledujú tesne za sebou).
+Ukážka formátu vstupného textového súboru:
+20 5
+ffa315070300aa0000000000000000ffffffffff
+00000000000000000000afbfcfdfef0000000000
+0000000000ffffffffff0000000000ffffffffff
+ffffffffff0000000000ffffffffff000000ffff
+00102030405060708090a0b0c0d0e0f0001f2f3f
+Z textového súboru a použitých farieb (odtieňov sivej) môžeme zistiť, ako často sú v obrázku zastúpené
+jednotlivé odtiene sivej farby. Vytvorte program, ktorý:
+prečíta a vypíše zo súboru šírku a výšku obrázka a počet všetkých bodov,
+zistí a vypíše počet výskytov najčastejšie použitého odtieňa,
+vykreslí histogram frekvencie použitia jednotlivých odtieňov (podľa ukážky), pričom frekvencia
+výskytu jednej hodnoty sa vykreslí ako stĺpec so šírkou 2 body, jednotlivé stĺpce sú tesne vedľa seba a
+ich maximálna výška je 500 px,
+vykreslí histogram s vypočítanou mierkou (žiadny z vykreslených stĺpcov neprekročí výšku 500 px).
+Pomôcka: Funkciu int() môžeme využiť na konvertovanie čísla do desiatkovej sústavy, stačí ako druhý
+parameter uviesť základ sústavy. Napríklad: int('ff'
+, 16) vráti číslo 255.
+Ukážka vykreslených histogramov pre súbory ciernobiely_
+obrazok
+_
+ciernobiely_
+obrazok
+3.txt:
+_
+1.txt až
+Otázky:
+1. Ako si rýchlo overíme, že zistená početnosť výskytov nie je úplne zlá?
+2. Čo vieme vyčítať z výsledného histogramu a následne povedať o vlastnostiach obrázku vo vstupnom
+súbore?
+riešenie úlohy
+35
+34 Dekompresia obrázka
+V súbore dekompresia
+obrazka
+1.txt je zapísaný čiernobiely obrázok (k dispozícii sú aj súbory:
+_
+_
+dekompresia
+obrazka
+2.txt a dekompresia
+obrazka
+3.txt). V prvom riadku súboru sú rozmery
+_
+_
+_
+_
+obrázka - prvé číslo predstavuje šírku obrázka (počet pixelov v riadku) a druhé číslo predstavuje jeho výšku
+(počet pixelov v stĺpci). Každý riadok obrázka je zapísaný v samostatnom riadku textového súboru. Tieto
+riadky nasledujú postupne za prvým riadkom s jeho rozmermi. Prvé číslo v riadku vyjadruje počet čiernych
+bodov vedľa seba v riadku obrázka. Ďalšie číslo vyjadruje počet bielych bodov vedľa seba v riadku obrázka.
+Takto sa striedajú čísla vyjadrujúce počet bielych a čiernych bodov v jednom riadku obrázka. Čísla sú
+oddelené jednou medzerou.
+Vytvorte program, ktorý dekomprimuje takto zapísaný obrázok a vytvorí z neho postupnosť núl a jednotiek
+(nula je čierny bod a jednotka biely bod). Program bude mať tieto vlastnosti:
+prečíta a vypíše zo súboru šírku a výšku obrázka a počet všetkých bodov,
+prečíta prvý riadok obrázka a pošle ho na spracovanie funkcii spracuj
+riadok(),
+_
+obsahuje funkciu spracuj
+riadok(), ktorá z postupnosti čísel vyrobí výstupný textový reťazec. Vo
+_
+výstupnom reťazci budú len nuly alebo jednotky.
+prečíta všetky riadky súboru, transformuje ich pomocou funkcie spracuj
+riadok() a vytvorí nový
+_
+textový súbor s názvom dekompresia
+obrazka
+vystup.txt. Aj vo výstupnom súbore bude v
+_
+_
+prvom riadku uložená veľkosť obrázka.
+Ukážka vstupného textového súboru:
+20 5
+0 3 2 2 8 5
+2 3 1 1 3 8 2
+0 20
+20
+7 5 5 3
+Ukážka výstupného textového súboru:
+20 5
+11100110000000011111
+00111010001111111100
+11111111111111111111
+00000000000000000000
+00000001111100000111
+Otázky:
+1. Pre aký riadok bude vo vstupnom súbore len jedno číslo?
+2. Aké riadky budú mať viac čísel vo vstupnom súbore?
+3. Ako bude vyzerať najdlhší možný vstupný riadok?
+4. Aký obrázok (pri rovnakej veľkosti celkového počtu bodov) bude mať najkratší vstupný súbor?
+5. V akom vzťahu bude veľkosť vstupného a výstupného súboru?
+riešenie úlohy
+36
+35 Vykreslenie komprimovaného obrázka
+V súbore komprimovany_
+obrazok
+1.txt je zapísaný čiernobiely obrázok (k dispozícii sú aj súbory:
+_
+komprimovany_
+obrazok
+_
+2.txt a komprimovany_
+obrazok
+3.txt). V prvom riadku súboru sú
+_
+rozmery obrázka - prvé číslo predstavuje šírku obrázka (počet pixelov v riadku) a druhé číslo predstavuje
+jeho výšku (počet pixelov v stĺpci). Každý riadok obrázka je zapísaný v samostatnom riadku textového
+súboru. Tieto riadky nasledujú postupne za prvým riadkom s jeho rozmermi. Prvé číslo v riadku vyjadruje
+počet čiernych bodov vedľa seba v riadku obrázka. Ďalšie číslo vyjadruje počet bielych bodov vedľa seba v
+riadku obrázka. Takto sa striedajú čísla vyjadrujúce počet bielych a čiernych bodov v jednom riadku
+obrázka. Čísla sú oddelené jednou medzerou.
+Vytvorte program, ktorý vykreslí takto zapísaný obrázok. Program bude mať tieto vlastnosti:
+prečíta zo súboru veľkosť obrázku a podľa nej nastaví veľkosť grafickej plochy,
+prečíta prvý riadok obrázka a vykreslí ho do grafickej plochy, jeden pixel nakreslí obdĺžnikom veľkosti
+1x1 pixel,
+podľa údajov v súbore vykreslí do grafickej plochy celý obrázok, pričom program nezaťažuje pamäť a
+všetky údaje číta a vykresľuje priamo zo súboru,
+po stlačení tlačidla negatív vykreslí body obrázka opačne, to, čo je podľa súboru biele, nakreslí čierne,
+a naopak, to, čo je podľa súboru čierne, nakreslí biele.
+Ukážka vstupného textového súboru:
+20 5
+0 3 2 2 8 5
+2 3 1 1 3 8 2
+0 20
+20
+Ukážka zafarbenia bodov (B - biely, Č - čierny):
+BBBČČBBČČČČČČČČBBBBB
+ČČBBBČBČČČBBBBBBBBČČ
+BBBBBBBBBBBBBBBBBBBB
+ČČČČČČČČČČČČČČČČČČČČ
+Ukážka vykreslenia obrázkov podľa jednotlivých textových súborov:
+Otázky:
+1. Pre aký riadok bude vo vstupnom súbore len jedno číslo?
+2. Aké riadky budú mať viac čísel vo vstupnom súbore?
+3. Ako bude vyzerať najdlhší možný vstupný riadok?
+4. Aký obrázok (pri rovnakej veľkosti celkového počtu bodov) bude mať najkratší vstupný súbor?
+5. V akom vzťahu bude veľkosť vstupného a výstupného súboru?
+riešenie úlohy
+37
+36
+Vykreslenie krížovky 2
+Vytvorte program, ktorý zo vstupného súboru vykreslí krížovku. Môžete použiť pripravené textové súbory:
+krizovka2
+1.txt, krizovka2
+2.txt. Prvý riadok textového súboru obsahuje text tajničky. Každý
+_
+_
+ďalší riadok popisuje jeden riadok krížovky.
+Ukážka textového súboru:
+MATURITA
+ZOZNAM
+CANVAS
+STRING
+CYKLUS
+RETURN
+WHILE
+TRUE
+RANDOM
+Vlastnosti programu:
+prečíta do pamäte obsah textového súboru,
+obsahuje funkciu, ktorá na zadanom mieste vykreslí krížovku so zadanou veľkosťou štvorčekov
+(zadané miesto je súradnica ľavého horného bodu stĺpca s tajničkou),
+program si zistí, o koľko treba posunúť jednotlivé riadky krížovky, aby bola tajnička v jednom stĺpci,
+krížovka je vykreslená tak, že štvorčeky tajničky sú podfarbené a sú umiestnené v jednom stĺpci,
+pomocou funkcie na vykreslenie krížovky môžeme vedľa seba nakresliť vyplnenú alebo nevyplnenú
+krížovku.
+Ukážky vykreslených krížoviek:
+riešenie úlohy
+37
+Hlasovanie 2
+V textovom súbore hlasovanie
+1.txt (k dispozícii je aj súbor hlasovanie
+2.txt) je uložený priebeh
+_
+_
+SMS hlasovania divákov v reality show. V každom riadku je uložené práve jedno telefónne číslo, na ktoré
+prišla SMS-ka. Diváci mohli hlasovať na čísla 5220 až 5229. Organizátor súťaže chce jednotlivým súťažiacim
+poskytnúť informáciu, v akom časovom slede (poradí) dostali oni SMS. Z týchto informácií môže súťažiaci
+zistiť, či mu posielali SMS skôr v úvode súťaže alebo napr. v závere.
+Ukážka časti vstupného textového súboru hlasovanie
+1.txt:
+_
+5225
+5227
+5225
+5224
+5225
+5227
+Vytvorte program, ktorý:
+38
+zistí a vypíše celkový počet zaslaných SMS,
+vytvorí textový súbor 5220.txt, kde na samostatných riadkoch budú poradové čísla zaslaných SMS z
+celého hlasovania, ale len tie, ktoré dostal súťažiaci 5220,
+vytvorí textové súbory 5221.txt až 5229.txt s poradovými číslami zaslaných SMS z celého
+hlasovania, ktoré dostal daný súťažiaci.
+Ukážka časti výstupného textového súboru 5225.txt k časti vstupného súboru z predchádzajúcej ukážky:
+1
+3
+5
+Otázky:
+1. Čo sa stane, ak niektorý zo súťažiacich nedostal žiaden hlas?
+riešenie úlohy
+38
+Spokojnosť zákazníkov 1
+Lokálne potraviny sa rozhodli, že zistia spokojnosť s poskytnutými službami u svojich zákazníkov. Pri
+východe z predajne nainštalovali box, v ktorom zákazník vyjadrí svoju spokojnosť / nespokojnosť pomocou
+dotykovej obrazovky. Všetky vyjadrenia sa zapíšu do textového súboru. Vyjadrenia sú v textovom súbore
+spokojnost
+1.txt (k dispozícii sú aj súbory spokojnost
+2.txt a spokojnost
+3.txt). Na každom
+_
+_
+_
+riadku je jedno vyjadrenie zákazníka. Vyjadrenie obsahuje čas zaznamenania v tvare hodina:minúta,
+potom nasleduje jedna medzera a text áno alebo nie podľa toho, či bol zákazník spokojný alebo
+nespokojný. V súbore sú vyjadrenia z viacerých dní.
+Ukážka časti vstupného textového súboru spokojnost
+1.txt:
+_
+08:39 áno
+06:47 áno
+10:52 áno
+14:55 nie
+15:30 nie
+10:53 áno
+Vytvorte program, ktorý zistí a vypíše:
+celkový počet vyjadrení,
+počas ktorej hodiny je najviac spokojných zákazníkov a ich absolútny počet,
+počas ktorej hodiny je najviac nespokojných zákazníkov a ich absolútny počet,
+percentá spokojnosti pre jednotlivé hodiny počas dňa, ale len tie, ku ktorým existujú vyjadrenia.
+riešenie úlohy
+39
+Spokojnosť zákazníkov 2
+Lokálne potraviny sa rozhodli, že zistia spokojnosť s poskytnutými službami u svojich zákazníkov. Pri
+východe z predajne nainštalovali box, v ktorom zákazník vyjadrí svoju spokojnosť / nespokojnosť pomocou
+dotykovej obrazovky. Všetky vyjadrenia sa zapíšu do textového súboru. Vyjadrenia sú v textovom súbore
+spokojnost
+1.txt (k dispozícii sú aj súbory spokojnost
+2.txt a spokojnost
+3.txt). Na každom
+_
+_
+_
+riadku je jedno vyjadrenie zákazníka. Vyjadrenie obsahuje čas zaznamenania v tvare hodina:minúta,
+potom nasleduje jedna medzera a text áno alebo nie podľa toho, či bol zákazník spokojný alebo
+nespokojný. V súbore sú vyjadrenia z viacerých dní.
+Ukážka časti vstupného textového súboru spokojnost
+1.txt:
+_
+39
+08:39 áno
+06:47 áno
+10:52 áno
+14:55 nie
+15:30 nie
+10:53 áno
+Vytvorte program, ktorý:
+zistí a vypíše celkový počet negatívnych vyjadrení,
+zistí a vypíše, počas ktorej hodiny je najviac nespokojných zákazníkov a ich absolútny počet,
+zistí a vypíše počet nespokojných zákazníkov pre jednotlivé hodiny počas dňa, ale len tie, ku ktorým
+existujú vyjadrenia,
+vykreslí histogram počtu nespokojných zákazníkov vo všetkých hodinách dňa. Na osi x budú napísané
+hodiny v tvare 00 až 23. Grafická plocha má veľkosť 480x520 pixelov a nevadí nám, že v prípade
+vysokej nespokojnosti sa údaje nezmestia do zobrazovanej plochy. Viď ukážku.
+Ukážka histogramu:
+riešenie úlohy
+40
+Analýza údajov
+Lokálne potraviny sa rozhodli, že zistia spokojnosť s poskytnutými službami u svojich zákazníkov. Pri
+východe z predajne nainštalovali box, v ktorom zákazník vyjadrí svoju spokojnosť / nespokojnosť pomocou
+dotykovej obrazovky. Všetky vyjadrenia sa zapíšu do textového súboru. Vyjadrenia sú v textovom súbore
+spokojnost
+1.txt (k dispozícii sú aj súbory spokojnost
+2.txt a spokojnost
+3.txt). Na každom
+_
+_
+_
+riadku je jedno vyjadrenie zákazníka. Vyjadrenie obsahuje čas zaznamenania v tvare hodina:minúta,
+potom nasleduje jedna medzera a text áno alebo nie podľa toho, či bol zákazník spokojný alebo
+nespokojný. V súbore sú vyjadrenia z viacerých dní.
+Ukážka vstupného textového súboru:
+15:38 áno
+15:39 áno
+14:33 áno
+08:38 áno
+07:42 áno
+15:20 áno
+Ukážka výstupu:
+1. deň - počet reakcií:2
+2. deň - počet reakcií:1
+40
+3. deň - počet reakcií:1
+4. deň - počet reakcií:2
+Počet všetkých vyjadrení: 6
+Hodina:7 Reakcií zákazníkov:1
+Hodina:8 Reakcií zákazníkov:1
+Hodina:14 Reakcií zákazníkov:1
+Hodina:15 Reakcií zákazníkov:3
+Počet dní: 4
+Vytvorte program, ktorý zistí a vypíše:
+celkový počet vyjadrení,
+počet všetkých vyjadrení v jednotlivých hodinách dňa, ale iba v tých hodinách, keď boli nejaké
+vyjadrenia,
+počet dní, počas ktorých sa zbierali vyjadrenia (predpkladajme, že každý deň bolo zaznamenané aspoň
+jedno vyjadrenie a že vstupné dáta sú zapísané v takom poradí, ako boli zrealizované),
+počet vyjadrení v jednotlivých dňoch.
+riešenie úlohy
+41
+Výber jedla
+V školskej jedálni je elektronický stravovací systém. Študenti si môžu na nasledujúci deň označiť jedlo podľa
+ponuky. Na výber sú vždy štyri jedlá označené farbami: zelená, červená, modrá a oranžová.
+Vytvorte program na výber jedla s týmito vlastnosťami:
+Na obrazovke sa vykreslia vedľa seba štyri štvorce postupne vyplnené zelenou, červenou, modrou a
+oranžovou farbou a nadpis programu (viď ukážku).
+Jedlo si označujeme kliknutím myšou na farebný štvorec.
+Programu pomocou entry zadávame identifikačné číslo študenta (pri entry je zobrazený aj popis - viď
+ukážku).
+Po kliknutí na niektorý štvorec sa do textového súboru vyber
+jedla.txt zapíše nový riadok, ktorý
+_
+obsahuje identifikačné číslo študenta, medzeru a znak označujúci vybrané jedlo (z – zelené, c –
+červené, m – modré, o – oranžové).
+Program nereaguje na kliknutia mimo vykreslených obdĺžnikov, objednávku nezapíše do súboru, keď
+nie je vyplnený kód študenta, a po každom spustení vymaže pôvodný obsah súboru
+vyber
+jedla.txt.
+_
+Ukážka výstupného textového súboru:
+154 o
+208 z
+206 m
+101 z
+85 c
+Ukážka obrazovky programu:
+Otázky:
+1. Na čo treba myslieť pri tvorbe programu, ak vieme, že ponuka jedál môže byť časom rozšírená?
+41
+2. Ako treba vytvoriť program, aby sme mohli flexibilne meniť veľkosť a pozíciu zobrazenia štvorcov
+vedľa seba?
+riešenie úlohy
+42
+Zachráň padajúce vajíčko
+Vytvorte program, ktorý umožní používateľovi hrať hru Zachráň padajúce vajíčko. Program má nasledujúce
+vlastnosti:
+Na obrazovke postupne z horného okraja a náhodnej x-ovej súradnice padá vajíčko (elipsa).
+Vo vnútri vajíčka je skryté náhodné malé písmeno anglickej abecedy, ktoré je potrebné stlačiť; v
+poslednej tretine dráhy sa skyté písmeno vo vajíčku ukáže.
+Stlačením skrytého písmena (klávesu s písmenom) zachránime vajíčko pred spadnutím a rozbitím. Ak
+nestihneme skryté písmeno stlačiť včas, vajíčko spadne a hra končí.
+Po záchrane vajíčka padá nové vajíčko s novým náhodným písmenom.
+Ukážka obrazoviek animácie programu:
+riešenie úlohy
+43
+Pyrotechnik
+Úlohou pyrotechnika je prestrihnúť správny káblik a zneškodniť výbušninu (resp. rozbušku). Vytvorte
+program - simulátor pre pyrotechnika, ktorý má tieto vlastnosti:
+V programe je definovaný zoznam použitých farieb, počiatočné súradnice umiestnenia káblikov a ich
+dĺžka (všetky kábliky sú umiestnené vodorovne pod sebou, ich hrúbka je nemenná s veľkosťou 10 px).
+Program vykreslí kábliky podľa nastavených údajov, napíše nadpis (viď ukážku), náhodne si určí
+správny káblik a spustí odpočítavanie času, ktoré sa zobrazuje na obrazovke.
+Hráč ovláda hru kliknutím na káblik. Ak klikne na správny káblik, čas sa zastaví a vypíše sa informácia o
+výhre (viď ukážku).
+Ak nestihne v časovom intervale kliknúť na správny káblik, z grafickej plochy všetko zmizne a program
+už nič nerobí.
+Ukážka obrazoviek programu (počas hry, výhra, prehra):
+Otázky:
+1. Ako zabezpečíme, aby program fungoval pre premenlivý počet káblikov viacerých farieb?
+42
+2. Bude program správne fungovať aj v prípade, že dva rôzne kábliky majú rovnakú farbu?
+riešenie úlohy
+44
+Uhádni padajúce slovo
+Vytvorte program, ktorý umožní používateľovi hrať hru Uhádni padajúce slovo. Program má nasledujúce
+vlastnosti:
+Na obrazovke postupne z horného okraja a náhodnej x-ovej súradnice padá náhodné slovo, pričom
+znaky pôvodného slova sú nahradené hviezdičkami. Zoznam slov, z ktorých sa jedno náhodne vyberie,
+je definovaný v úvode programu.
+Hráč musí uhádnuť slovo stláčaním klávesov. Ak stlačí kláves s písmenom, ktoré sa v hádanom slove
+nachádza, všetky výskyty tohto písmena sa zobrazia namiesto hviezdičiek a na obrazovke ďalej padá
+čiastočne uhádnuté slovo.
+Ak hráč nestihne uhádnuť celé slovo, kým spadne na spodný okraj, hra končí s vypísaným textom
+Neuhádol si!.
+Ak hráč uhádne celé slovo, hra sa zastaví v aktuálnej pozícii a vidíme celé (uhádnuté) slovo.
+Ukážka obrazoviek animácie programu:
+riešenie úlohy
+45
+Učenie sa slovíčok
+V textovom súbore ucenie
+sa
+_
+_
+- slovenské slovo a anglické slovo.
+Ukážka textového súboru:
+slovicok.txt sú v dvoch po sebe idúcich riadkoch uložené dvojice slov
+obdĺžnik
+rectangle
+štvorec
+square
+trojuholník
+triangle
+čiara
+43
+line
+Vytvorte program na učenie sa slovíčok v textovom režime s vlastnosťami:
+Program prečíta všetky slovíčka do pamäte. Hráč si vyberie, či má program zadávať slovenské alebo
+anglické slovo.
+Program postupne zadá všetky slovíčka poďla výberu zadaného jazyka a prečíta odpoveď.
+Keď slovo zadáme nesprávne, program nás ho po vyskúšaní všetkých slov, ktoré nás mal vyskúšať,
+opätovne vyskúša.
+Program nás skúša slovíčka, až kým nezadáme správne všetky slovíčka v súbore, v závere nám vypíše
+počet nesprávnych odpovedí.
+Otázky:
+1. Ako by sme zamiešali poradie skúšaných slov?
+2. Akými rôznymi spôsobmi môžeme čítať súbor? Ktorý spôsob bude vhodnejší a prečo?
+riešenie úlohy
+46
+Obesenec
+V textovom súbore obesenec.txt je na každom riadku zapísané jedno slovo. V hre Obesenec je úlohou
+hráča postupne hádať písmená, ktoré sa nachádzajú v hádanom slove.
+Ukážka textového súboru so zadanými slovami:
+kniha
+hudba
+film
+kino
+divadlo
+koncert
+Vytvorte program - hru Obesenec (v textovom režime) s vlastnosťami:
+Program prečíta všetky slovíčka zo súboru do pamäte, jedno z nich náhodne vyberie a hráč ho bude
+hádať.
+Namiesto hádaného slova sa vypíše prilúchajúci počet bodiek a hráč je vyzvaný na hádanie písmen.
+Keď hráč uhádne písmeno, program ho na príslušnej pozícii slova zobrazí (zatiaľ neuhádnuté písmená
+su vypísané bodkou).
+Hráč môže neuhádnuť maximálne 10 písmen, vtedy hra končí a program vypíše hráčovi, že neuspel.
+Ak hráč uhádol už celé slovo (postupne), hra končí gratuláciou.
+Otázky:
+1. Čo sa stane, ak je vstupný súbor prázdny?
+2. Čo sa stane, ak je v súbore namiesto jednotlivých slov slovné spojenie?
+3. Čo sa stane, ak na vstupe zadá používateľ viac písmen?
+riešenie úlohy
+44
+47
+Čiarový kód
+Náš čiarový kód obsahuje osemciferné čísla, ktoré nezačínajú nulou. Každá číslica je znázornená čiarou,
+ktorej hrúbka je rovná hodnote číslice (napr. číslica 4 bude zobrazená čiarou s hrúbkou 4). Čiary sú dlhé 80
+bodov a sú od seba rovnako vzdialené (priestor pre každú čiaru má šírku 10 pixelov). Medzi prvou a
+poslednou čiarou je zobrazený aj číselný kód, teda druhá až siedma čiara nezasahujú do číselného kódu. K
+úlohe môžete využiť pripravené textové súbory ciarovy_
+kod
+_
+1.txt, ciarovy_
+kod
+2.txt a
+_
+ciarovy_
+kod
+3.txt.
+_
+Ukážka grafického zobrazenia nášho čiarového kódu:
+Vytvorte program, ktorý bude pracovať s čiarovým kódom nasledovne:
+vygeneruje náhodný kód a vypíše jeho číselnú hodnotu do shellu,
+graficky zobrazí čiarový kód (podľa ukážky),
+z textového súboru prečíta čiarový kód a vykreslí ho na obrazovku,
+postupne prečíta všetky čiarové kódy a zobrazuje ich na obrazovke po štvoriciach (viď ukážku),
+stlačením medzery sa zobrazí ďalšia štvorica.
+Ukážka vstupného textového súboru:
+13419824
+21603459
+38546595
+14290739
+32649199
+Ukážka zobrazovania čiarového kódu po štvoriciach z textového súboru:
+riešenie úlohy
+48
+Násobilka
+Vytvorte program, ktorý vyskúša mladšieho súrodenca z malej násobilky. Program bude mať tieto
+vlastnosti:
+Program vygeneruje 10 príkladov na násobenie do 100 (nezáporné celé čísla), zapamätá si ich do
+pamäte aj s výsledkami.
+Príklady nám postupne zadáva v textovom režime a prečíta našu odpoveď. Za správnu odpoveď
+získame 1 bod, ak odpovieme nesprávne, program zaradí príklad na koniec príkladov, ktoré nás ešte
+bude skúšať.
+Za príklad, ktorý sme prvý raz vyriešili nesprávne, už pri neskoršom správnom vyriešení bod
+45
+nezískame.
+Po skončení riešenia program vypíše počet získaných bodov.
+Všetkých 10 príkladov program zapíše do súboru nasobilka
+Otázky:
+1. Kedy skončí zadávanie príkladov?
+2. Maximálne koľko bodov môžeme získať?
+vystup.txt.
+_
+riešenie úlohy
+49
+Rezervácia miesteniek
+V súbore rezervacia
+miesteniek
+zadanie.py je pripravený program, ktorý vykreslí plán autobusu,
+_
+_
+reaguje na kliknutie myšou nad miestom v pláne a vypíše číslo sedadla, na ktoré sme klikli. Program vykreslí
+napríklad takýto plán (pri nastavení 10 radov sedadiel):
+Ukážka pripraveného programu:
+import tkinter
+canvas = tkinter.Canvas(width=600, height=300, bg='white')
+canvas.pack()
+pocetradov = 10
+VEL = 40
+busx, busy = 50, 50
+def zafarbi(sedadlo, farba):
+canvas.itemconfig('sedadlo
+' + str(sedadlo), fill=farba)
+_
+def kresli(x, y, pocet):
+cislo = 0
+for i in range(pocet):
+for j in range(4):
+cislo += 1
+canvas.create
+_
+canvas.create
+rectangle(x+i*VEL, y+j*VEL,
+x+(i+1)*VEL-10, y+(j+1)*VEL-10,
+tags='sedadlo
+'+str(cislo))
+_
+text(x+i*VEL+VEL/2-5, y+j*VEL+VEL/2-5, text=cislo)
+_
+def klik(event):
+if (busx < event.x < busx + VEL * pocetradov and
+busy < event.y < busy + VEL * 4):
+ix = (event.x - busx) // VEL
+iy = (event.y - busy) // VEL
+sedadlo = ix * 4 + iy + 1
+zafarbi(sedadlo,
+'red')
+print(sedadlo)
+kresli(busx, busy, pocetradov)
+canvas.bind('<Button-1>'
+, klik)
+46
+Upravte program na rezerváciu miesteniek, aby mal nasledovné vlastnosti:
+Na začiatku sú všetky sedadlá voľné, zafarbia sa svetlozelenou farbou.
+Kliknutím na sedadlo sedadlo obsadíme alebo uvoľníme podľa toho, či je voľné alebo obsadené.
+Obsadené sedadlá sú červené.
+Program priebežne pod plánom zobrazuje aktuálny stav obsadenosti - vypisuje počet voľných
+sedadiel, počet obsadených sedadiel a počet voľných sedadiel pri uličke (vnútorné dva riadky).
+V programe je tlačidlo save. Tlačidlom uložíme plán autobusu do textového súboru tak, aby vizuálne
+obsah súboru pripomínal grafickú podobu plánu (viď ukážku). Voľné sedadlá sú uložené ako čísla (číslo
+sedadla) a na mieste obsadených sedadiel je písmeno X.
+Ukážka plánu s obsadenými a voľnými sedadlami:
+Ukážka textového súboru pre plán na predchádzajúcom obrázku:
+X 5 9 X X 21 25 X 33 37
+2 X X 14 X X X 30 X X
+3 X X 15 X X X 31 X X
+X 8 12 X X 24 28 X 36 40
+Otázky:
+1. Ako by sme čítali takýto textový súbor?
+2. Vieme zo zapísaného textového súboru zistiť počet radov, alebo potrebujeme ukladať aj túto
+informáciu?
+riešenie úlohy
+50
+Obrys obrázka
+V súbore obrys
+obrazka
+1.txt je zapísaný čiernobiely obrázok (k dispozícii sú aj súbory:
+_
+_
+obrys
+obrazka
+2.txt a obrys
+obrazka
+3.txt). V prvom riadku súboru sú rozmery obrázka - prvé
+_
+_
+_
+_
+číslo predstavuje šírku obrázka (počet pixelov v riadku) a druhé číslo predstavuje jeho výšku (počet pixelov v
+stĺpci). Každý riadok obrázka je zapísaný v samostatnom riadku textového súboru. Tieto riadky nasledujú
+postupne za prvým riadkom s jeho rozmermi. Prvé číslo v riadku vyjadruje počet čiernych bodov vedľa seba
+v riadku obrázka. Ďalšie číslo vyjadruje počet bielych bodov vedľa seba v riadku obrázka. Takto sa striedajú
+čísla vyjadrujúce počet bielych a čiernych bodov v jednom riadku obrázka. Čísla sú oddelené jednou
+medzerou.
+Vytvorte program, ktorý vykreslí takto zapísaný obrázok. Program bude mať tieto vlastnosti:
+Prečíta zo súboru veľkosť obrázku a podľa nej nastaví veľkosť grafickej plochy.
+Prečíta prvý riadok obrázka a vykreslí ho do grafickej plochy, vždy nakreslí obdĺžnik veľkosti 1x1 pixel
+len pre prvý čierny bod, aj keď ich je v popise za sebou viac.
+Podľa údajov v súbore vykreslí do grafickej plochy celý obrázok, pričom program nezaťažuje pamäť a
+všetky údaje číta a vykresľuje priamo zo súboru.
+Po stlačení tlačidla inak vykreslí iba prvý bod z počtu bielych bodov ako jeden čierny obdĺžnik s
+veľkosťou 1 x 1 px, pričom nezmaže obrázok nakreslený hneď po spustení programu.
+Ukážka vstupného textového súboru:
+47
+20 5
+0 3 2 2 8 5
+2 3 1 1 3 8 2
+0 20
+20
+7 5 5 3
+Ukážka zafarbenia bodov (B - biely, Č - čierny) po rozkódovaní vstupného súboru (vykresľujeme len prvý
+čierny a prvý biely bod - čiernou farbou):
+BBBČČBBČČČČČČČČBBBBB
+ČČBBBČBČČČBBBBBBBBČČ
+BBBBBBBBBBBBBBBBBBBB
+ČČČČČČČČČČČČČČČČČČČČ
+ČČČČČČČBBBBBČČČČČBBB
+Ukážka vykreslenia obrázkov podľa jednotlivých textových súborov:
+Otázky:
+1. Pre aký riadok bude vo vstupnom súbore len jedno číslo?
+2. Ktoré riadky budú mať viac čísel vo vstupnom súbore?
+3. Ako bude vyzerať najdlhší možný vstupný riadok?
+4. Aký obrázok (pri rovnakej veľkosti celkového počtu bodov) bude mať najkratší vstupný súbor?
+5. V akom vzťahu bude veľkosť vstupného a výstupného súboru?
+riešenie úlohy
+51
+Kompresia oznamu 1
+Oznamy pre cestujúcich, ktoré sa zobrazujú na informačných obrazovkách v staniciach prímestských vlakov,
+sa z počítača do samotných obrazoviek prenášajú čo najúspornejšie. Ide totiž o staršie zariadenia s dlhšou
+životnosťou. Preto tiež systém podporuje iba znaky anglickej abecedy. Obslužný program preto najprv text
+zadaný dispečerom „stlačí“
+, odošle zariadeniu, a to ho zobrazí v pôvodnom tvare, prekonvertovaný iba na
+veľké písmená.
+Stlačenie textu prebieha tak, že program vynechá medzery z oznamov. Aby však tieto oznamy ostali
+čitateľné, budú slová v stlačenom ozname zapísané striedavo veľkými a malými písmenami.
+Napríklad vetu:
+Cez vikend je planovana odstavka severnej casti linky
+možno zapísať v tvare:
+CEZvikendJEplanovanaODSTAVKAsevernejCASTIlinky
+Váš program načíta od používateľa jeden riadok s informáciou pre cestujúcich. Informácia môže obsahovať
+iba malé a veľké písmená a medzery. Vytvorte program, ktorý:
+vypíše, z koľkých slov pozostáva oznam,
+upraví (stlačí) daný text podľa zadania a vypíše ho na obrazovku,
+48
+simuluje príjem stlačeného textu a jeho zobrazenie na informačnej tabuli – teda zo stlačeného
+formátu spätne vytvorí reťazec s pôvodným oznamom (slovami oddelenými medzerou) zapísaný iba
+veľkými písmenami.
+riešenie úlohy
+52
+Kompresia oznamu 2
+Oznamy pre cestujúcich, ktoré sa zobrazujú na informačných obrazovkách v staniciach prímestských vlakov,
+sa z počítača do samotných obrazoviek prenášajú čo najúspornejšie. Ide totiž o staršie zariadenia s dlhšou
+životnosťou. Preto tiež systém podporuje iba znaky anglickej abecedy. Obslužný program preto najprv text
+zadaný dispečerom „stlačí“
+, odošle zariadeniu, a ten ho zobrazí v pôvodnom tvare, prekonvertovaný plne
+na veľké písmená.
+Stlačenie textu prebieha tak, že program vynechá medzery z oznamov. Aby však tieto oznamy ostali
+čitateľné, bude každé slovo v stlačenom ozname začínať veľkým písmenom a pokračovať iba malými
+písmenami.
+Napríklad vetu:
+Cez vikend je planovana odstavka severnej casti linky
+možno zapísať v tvare:
+CezVikendJePlanovanaOdstavkaSevernejCastiLinky
+Váš program načíta od používateľa jeden riadok s informáciou pre cestujúcich. Informácia môže obsahovať
+iba malé a veľké písmená a medzery. Vytvorte program, ktorý:
+vypíše, z koľkých slov pozostáva oznam,
+upraví (stlačí) daný text podľa zadania a vypíše ho na obrazovku,
+simuluje príjem stlačeného textu a jeho zobrazenie na informačnej tabuli – teda zo stlačeného
+formátu spätne vytvorí reťazec s pôvodným oznamom (slovami oddelenými medzerou) zapísaným iba
+veľkými písmenami.
+riešenie úlohy
+49
+53
+Zástavba na ulici
+Inštitút pre rozvoj mestskej architektúry potrebuje jednoduchý simulátor mestskej zástavby na ulici kvôli
+regulovaniu výšky budúcich novostavieb.
+Vytvorte program, ktorý zo súboru zastavba
+na
+ulici.txt načíta informácie o výškach a šírkach (v
+_
+_
+metroch) budov na ulici. Na každom riadku vstupného súboru sú iba dve celé čísla – výška a šírka budov
+oddelené medzerou. Program bude mať tieto vlastnosti:
+zobrazí budovy vykreslené vedľa seba ako obdĺžniky (viď ukážku),
+v prípade, že je na ulici voľné miesto (s nulovou výškou) vyznačí sa hrubšou zelenou vodorovnou
+čiarou. To je totiž potenciálne miesto na novú výstavbu.
+zvýrazní na rozhraní budov červenou zvislou čiarou priveľké steny, teda miesta, kde výškový rozdiel
+medzi dvomi existujúcimi susednými budovami je príliš veľký – táto kritická hranica v metroch sa zadá
+pomocou vstupného poľa Entry. Táto vlastnosť pomôže mestským architektom eliminovať zubaté
+ulice s výraznými bočnými stenami objektov.
+Ukážka vstupného súboru:
+40 50
+20 70
+30 30
+40 0
+50 100
+Ukážka výstupu programu:
+Poznámka: Stena štvrtej budovy na obrázku nie je zvýraznená červenou farbou, lebo vedľa nej nestojí
+žiadna budova.
+riešenie úlohy
+54
+Lodičky
+Naprogramujte simulátor lodičiek zakotvených v zátoke. V textovom súbore lodicky.txt je uložený
+popis zátoky – dvojrozmerná mapa znakov 0 a 1 oddelených medzerou. Znak 1 znamená pevninu a 0
+znamená vodu. Na prvom riadku sú rozmery (šírka a výška) tejto mapy – dve celé čísla oddelené medzerou.
+Zátoka sa teda môže vykresliť ako dvojrozmerná mapa štvorčekov pevnina / voda. Program po kliknutí na
+tlačidlo vygeneruje jednu lodičku niekam do vody v zátoke. Ďalším klikaním na tlačidlo generuje ďalšie
+lodičky, až kým sa zátoka nezaplní.
+Pravidlá generovania resp. umiestňovania lodičiek:
+Lodička je trojica susediacich štvorčekov v riadku.
+Dve lodičky v jednom riadku sa nesmú dotýkať – musí byť medzi nimi aspoň jedno políčko vody.
+Lodičky v riadkoch pod sebou sa dotýkať môžu (na vedľajší riadok sa teda neberie ohľad).
+Lodička sa môže dotýkať pevniny.
+Vytvorte program, ktorý bude mať tieto vlastnosti:
+vykreslí zátoku zo štvorčekov podľa mapy zo súboru,
+po kliknutí na tlačidlo vykreslí jednu lodičku. Lodička môže byť vygenerovaná na náhodnú pozíciu
+50
+alebo s nejakou stratégiou (napr. od vrchu mapy).
+vypíše na obrazovku oznam, že zátoka je plná, ak sa už do prístavu v zátoke nezmestí žiadna ďalšia
+lodička.
+Ukážka vstupného súboru:
+10 7
+0 0 0 1 1 1 1 0 0 0
+0 0 1 1 1 1 1 1 0 0
+1 0 0 0 0 0 0 0 0 1
+0 0 0 0 1 0 0 0 0 0
+1 0 0 0 0 0 0 0 0 1
+1 1 0 0 0 0 0 0 1 1
+1 1 1 0 0 0 0 1 1 1
+Ukážka programu – prístav s piatimi umiestnenými žltými lodičkami a ukážka plného prístavu (pre vstupný
+súbor v ukážke):
+riešenie úlohy
+55
+Kresliaci robot 2
+Kresliaci robot poslúcha zadané príkazy a podľa nich kreslí obrázky. Robot má svoju pozíciu a smer, ktorým
+je natočený (iba hore / dole / vpravo / vľavo).
+Robot pozná nasledujúce príkazy:
+ciara– nakreslí smerom, ktorým je natočený, čiaru dĺžky 50 pixelov a presunie sa na koniec tejto čiary,
+vlavo – otočí sa o 90 stupňov vľavo (bez akéhokoľvek kreslenia),
+vpravo – otočí sa o 90 stupňov vpravo (bez akéhokoľvek kreslenia),
+Príkaz cyklu: Príkazy medzi riadkami opakuj a koniecopakuj sa vykonávajú opakovane. Počet
+opakovaní udáva číslo za slovom opakuj. Ukážka zápisu:
+opakuj 4
+ciara
+vpravo
+...
+koniecopakuj
+Vytvorte program, ktorý bude simulovať činnosť kresliaceho robota. Na začiatku programu je robot
+umiestnený v strede grafickej plochy a je natočený smerom hore. Program samotného robota nezobrazuje.
+Po kliknutí na tlačidlo Kresli robot vykoná príkazy, ktoré sú pre neho uložené v súbore
+kresliaci
+robot2.txt. Robot teda vykreslí obrázok podľa príkazov zo súboru. Vlastnosti vytvoreného
+_
+programu:
+Robot zvláda vykonávanie príkazu ciara z textového súboru. Kreslí teda čiaru smerom hore.
+Robot zvláda tiež vykonávanie príkazov vpravo a vlavo z textového súboru. Ďalšie čiary sa tak už
+vykresľujú daným smerom.
+51
+Robot zvláda tiež vykonávanie cyklu opakuj ... koniecopakuj.
+Ukážka vstupného súboru:
+ciara
+opakuj 4
+ciara
+vlavo
+koniecopakuj
+vpravo
+vpravo
+ciara
+vlavo
+ciara
+Ukážka výstupu programu po interpretácii príkazov vo vstupnom súbore:
+riešenie úlohy
+56
+Editor levelov 1
+Tvorcovia hier dodávajú k svojim hrám aj editory levelov hry, vďaka ktorým si hráči môžu nadizajnovať do
+hry vlastnú mapu levelu. Vytvorte program - editor, ktorý bude mať tieto vlastnosti:
+Zobrazí prázdnu štvorcovú sieť veľkosti 10x10 štvorčekov.
+Umožní používateľovi klikaním myšou zafarbovať jednotlivé políčka siete. Používateľ tak umiestňuje
+do plochy levelu prekážky, resp. steny a podobne.
+Používateľ si môže nastaviť farbu prekážky pomocou komponentu Entry zadaním kódu farby v
+hexadecimálnom zápise. Každé ďalšie kliknutie tak zafarbuje políčka práve zadanou farbou.
+Kliknutím na tlačidlo Uložiť sa mapa uloží do textového súboru editor
+levelov1
+vystup.txt.
+_
+_
+Spôsob uloženia informácií o prekážkach si zvoľte sami. Podstatné je, aby v súbore boli uložené
+všetky potrebné údaje na načítanie a vykreslenie mapy s prekážkami daných farieb (Samotné
+načítanie a vykreslenie mapy zo súboru v tomto zadaní programovať nemusíte).
+Ukážka obrazovky programu:
+riešenie úlohy
+52
+57
+Editor levelov 2
+Tvorcovia hier dodávajú k svojim hrám aj editory levelov hry, vďaka ktorým si hráči môžu nadizajnovať do
+hry vlastnú mapu levelu. Vytvorte editor levelov pre hru Bludisko. V programe budete môcť naklikávať
+rovné steny bludiska. Vytvorte program, ktorý bude mať tieto vlastnosti:
+Zobrazí prázdnu štvorcovú sieť veľkosti 10x10 štvorčekov.
+Umožní používateľovi klikaním myšou pridávať steny do bludiska - prvým kliknutím sa označí začiatok
+novej steny (zafarbí sa políčko, do ktorého sa kliklo).
+Druhým kliknutím sa označí koniec rovnej steny a vykreslí sa celá stena (zafarbia sa všetky políčka
+medzi začiatočným a koncovým). Stena však môže byť iba rovná, teda vykreslí sa, iba ak koncové
+políčko bolo zvolené v rovnakom riadku alebo stĺpci ako začiatočné. Ak pri druhom kliknutí bolo
+koncové políčko zvolené šikmo, začiatočné políčko steny sa odznačí.
+Každé ďalšie kliknutie označí začiatok novej steny a následné kliknutie stenu vykreslí podľa vyššie
+uvedených pravidiel.
+Ukážka obrazovky programu:
+riešenie úlohy
+58
+Trasa linky metra
+Vo vozňoch súpravy metra je vždy nad dverami nalepená schéma danej konkrétnej linky metra. Ide o
+vodorovnú čiaru farby, akú má daná linka, na ktorej sú vyznačené zastávky (viď ukážku). Podnik
+prevádzkujúci sieť metra má údaje o jednotlivých trasách liniek uložené v súboroch. Program vie z týchto
+údajov vygenerovať novú schému vždy, keď nastanú nejaké zmeny, napríklad keď sa otvorí nová stanica.
+Vytvorte program, ktorý bude mať tieto vlastnosti:
+Načíta zo súboru trasa
+_
+linky_
+metra.txt farbu linky (na prvom riadku súboru) a zoznam staníc
+(na každom ďalšom riadku je práve jeden názov) a zobrazí linku ako vodorovnú čiaru s názvami staníc
+v pravidelnej vzdialenosti. Názvy staníc budú zobrazené šikmo nad čiarou.
+Zobrazí konečné stanice štvorcom na začiatku a konci čiary.
+Na čiare zobrazí značky staníc – malé krúžky. Na tých staniciach, na ktorých zastavujú aj expresné
+vlaky tejto linky, nebudú krúžky vyplnené. Stanice expresných vlakov majú vo vstupnom súbore tesne
+pred názvom stanice zapísaný znak *
+.
+Ukážka vstupného súboru:
+#FF0000
+Grand Central Station
+Marcy Avenue
+Franklin Street
+*National Museum
+Union Square
+Kingston Avenue
+Sutton Street
+*Court Street
+53
+Botanical Garden
+...
+Ukážka grafického výstupu programu:
+riešenie úlohy
+59
+Vyťaženosť autobusovej linky
+Mestský dopravný podnik sa rozhodol urobiť prieskum vyťaženosti svojich autobusových liniek. Pomocou
+automatických sčítacích zariadení vznikol súbor vytazenost
+_
+autobusevej_
+linky.txt, ktorý má
+nasledujúci tvar:
+V 1. riadku je číslo, ktoré udáva kapacitu autobusu (max. počet ľudí).
+V každom ďalšom riadku je zapísaný počet nastupujúcich, počet vystupujúcich na zastávke a meno
+samotnej zastávky. Tieto údaje sú oddelené medzerou.
+Ukážka vstupného súboru:
+50
+20 0 Štúrovo nám.
+35 0 Mestský park
+10 20 Dargovská
+40 20 Nemocnica
+10 40 Bratská
+5 10 Mestský úrad
+35 10 Partizánska
+0 55 Bernolákova
+Vytvorte program, ktorý vizualizuje stav naplnenosti autobusu:
+Vypíše do grafickej plochy pod seba názvy zastávok načítané zo súboru (názov zastávky je dvojslovný
+alebo jednoslovný).
+Po stlačení ľubovoľného klávesu sa vedľa prvej zastávky zobrazí indikátor naplnenosti - obdĺžnik
+čiastočne vyplnený zeleným pruhom. Prázdny obdĺžnik znázorňuje sto percent kapacity autobusu a
+zelený pruh znázorňuje, koľko percent kapacity autobusu bolo po odchode z prvej zastávky
+naplnených.
+Po každom ďalšom stlačení ľubovoľného klávesu sa vedľa nasledujúcej zastávky zobrazí indikátor
+naplnenosti.
+Ak nastane stav, že po odchode zo zastávky je autobus preplnený (počet cestujúcich prevyšuje
+povolenú kapacitu), tak indikátor presiahne ohraničujúci obdĺžnik a zobrazí sa červenou farbou.
+Ukážka grafického výstupu programu:
+54
+Otázky:
+1. Čo by ste museli zmeniť vo svojom programe (vzhľadom na možné viacslovné názvy zastávok), ak by
+vstupné údaje na každom riadku boli oddelené bodkočiarkou?
+riešenie úlohy
+60
+Kalkulačka
+Vytvorte jednoduchú kalkulačku, ktorá bude vedieť zrátať operácie sčítania a odčítania. Tlačidlá kalkulačky
+budú predstavovať štvorčeky s textom vykreslené v grafickej ploche.
+Vytvorte program, ktorý bude mať tieto vlastnosti:
+Zobrazí štvorcové tlačidlá s číslicami vedľa seba. Nad nimi zobrazí displej s práve zadávaným číslom.
+Na začiatku programu bude na displeji zobrazená nula.
+Po kliknutí na tlačidlo s číslicou sa daná číslica pridá k číslu na displeji, resp. ak je na displeji nula, tak
+sa zobrazí namiesto nej.
+Zobrazí v druhom rade štvorcové tlačidlá +, -
+=
+,
+, C.
+Po kliknutí na tlačidlá + alebo – sa na displeji opätovne zobrazí nula, aby sme mohli zadávať druhé
+číslo pre sčítanie / odčítanie. Po kliknutí na tlačidlo = sa na displeji zobrazí výsledok operácie.
+Po kliknutí na tlačidlo C (Clear) sa na displeji opäť zobrazí nula a používateľ môže zadávať nový
+príklad.
+Ukážka obrazovky programu:
+riešenie úlohy
+61
+Delenie
+Vytvorte výukový program na precvičovanie jednoduchých príkladov na delenie celých čísel so zvyškom.
+Program bude mať tieto vlastnosti:
+Vygeneruje príklad a zobrazí ho do grafickej plochy. Delenec je v rozsahu 11 až 20, deliteľ od 2 do 9.
+Umožní používateľovi zadať výsledok celočíselného delenia (zvyšok nezadávame) pomocou
+komponentu Entry. Po kliknutí na tlačidlo Over program vypíše, či je výsledok správny alebo
+nesprávny.
+Program názorne ukáže princíp delenia - zobrazí delenca v podobe krúžkov a vyznačí n-tice krúžkov v
+počte rovnom deliteľovi, vždy inou farbou (vyberajte farby napríklad z vami pripraveného zoznamu).
+Krúžky zodpovedajúce zvyšku budú oddelené od ostatných (viď ukážku).
+Ukážka programu:
+riešenie úlohy
+55
+62
+Anketa
+Spoločnosť ANKET s. r. o. spracováva ankety, v ktorých zisťuje názory obyvateľstva na rôzne aktuálne
+spoločenské témy. V textovom súbore anketa.txt sa v prvom riadku nachádza otázka a v ďalšom sú
+uvedené tri čísla udávajúce počet doterajších hlasov za možnosti Áno, Nie a Neviem, oddelené medzerou.
+Ukážka textového súboru:
+Súhlasíte so zavedením zálohovania PET fliaš?
+30 22 7
+Vytvorte program, ktorý bude mať tieto vlastnosti:
+Vypíše otázku a pod seba odpovede a počty ľudí, ktorí hlasovali za jednotlivé možnosti.
+Vedľa hlasov zobrazí prúžky, ktoré graficky znázorňujú percentuálne zastúpenie hlasov za jednotlivé
+odpovede a zobrazí tiež, koľko ľudí hlasovalo za danú možnosť.
+Prúžok možnosti, za ktorú hlasovalo najviac ľudí, bude zobrazený odlišnou farbou.
+Program umožní používateľovi hlasovať: po stlačení čísla odpovede (1, 2 alebo 3) sa pripočíta hlas,
+aktualizuje sa grafické zobrazenie a program aktualizuje aj súbor anketa.txt.
+Ukážka obrazovky programu:
+riešenie úlohy
+63
+Dopravný prieskum
+Mestský dopravný podnik robil jeden mesiac, po zmenách v trasách električkových liniek, prieskum
+vyťaženosti jednotlivých liniek. V súbore dopravny_prieskum.txt je uvedený zoznam zastávok s
+priemernými počtami nastupujúcich a vystupujúcich počas sledovaného obdobia. V súbore sú na každom
+riadku uvedené tri údaje – priemerný počet nastupujúcich, priemerný počet vystupujúcich na zastávke a
+názov zastávky. Údaje sú oddelené bodkočiarkou. Počty sú celé čísla, názov zastávky môže byť aj
+viacslovný.
+Podnik chce takto získané údaje využiť na zlepšenie služieb – umiestnenie automatov na lístky, výber
+správneho typu vozidla na linku a zavedenie málo využívaných zastávok ako zastávky na znamenie.
+Ukážka textového súboru:
+10;0;Štúrovo nám.
+5;0;Mestský park
+50;1;Dargovská
+2;0;Nemocnica
+10;3;Bratská
+1;1;Mestský úrad
+Vytvorte program, ktorý bude mať tieto vlastnosti:
+Vypíše zoznam zastávok s počtami cestujúcich v električke po odchode z danej zastávky.
+Zobrazí odporúčanie, ktorý vhodný typ električky sa oplatí nasadiť na danú linku. Vhodný typ sa zvolí
+podľa najväčšieho počtu cestujúcich vo vozidle počas jazdy. Typy električiek sú: dlhá, štandardná,
+krátka. Hranice, pri akom počte cestujúcich sa oplatí daný typ električky, si zvoľte sami.
+Na zastávkach, kde nastupuje aspoň 10 cestujúcich, je vhodné umiestniť automat na predaj
+cestovných lístkov. Vypíšte zoznam vhodných zastávok na umiestnenie automatu.
+Zastávky, kde nastupuje menej ako traja ľudia, resp. vystupuje menej ako traja ľudia, budú zmenené
+56
+na zastávky na znamenie. Električka teda na nich nebude zastavovať, pokiaľ cestujúci nedá znamenie
+vodičovi. Vypíšte zoznam takýchto zastávok.
+riešenie úlohy
+64
+Zasadací poriadok
+V textovom súbore zasadaci
+_poriadok.csv je abecedne zoradený zoznam študentov triedy. Na
+každom riadku je meno jedného študenta v tvare priezvisko;meno. Ukážka textového súboru:
+Bajčičák;Roman
+Barancová;Tatiana
+Bištiak;Michal
+Borový;Oliver
+Brezoňák;Ján
+Čepčárová;Simona
+Vytvorte program, ktorý zo zoznamu študentov vytvorí náhodný zasadací poriadok. Program bude mať
+tieto vlastnosti:
+Pomocou dvoch vstupných polí Entry programu zadávame počet radov a počet lavíc v jednom rade.
+Pri vstupných poliach je aj popis polí. Vstup potvrdíme stlačením tlačidla Potvrď vstup.
+Program z textového súboru prečíta a zapamätá si všetkých študentov. Ak používateľ zadal
+nedostatočný počet lavíc pre všetkých študentov, program nás na to upozorní vypísaním textu.
+Ak sa všetci študenti zmestia do lavíc, program vykreslí zadaný počet lavíc a do nich v náhodnom
+poradí umiestni študentov. V lavici je ako prvé napísané priezvisko červenou farbou a pod ním krstné
+meno modrou farbou.
+Pokiaľ je študentov menej ako počet lavíc, zostane príslušný počet lavíc voľný. Program usádza
+študentov postupne od lavíc vpredu. Voľné zostanú zadné lavice (viď ukážku).
+Tlačidlom Potvrď vstup môžeme zasadací poriadok vykresliť znovu alebo zmeniť jeho rozloženie.
+Ukážka obrazovky programu:
+riešenie úlohy
+57

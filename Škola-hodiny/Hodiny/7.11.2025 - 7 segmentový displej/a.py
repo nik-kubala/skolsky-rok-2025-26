@@ -1,3 +1,4 @@
+
 import tkinter as tk
 
 win = tk.Tk()
@@ -27,6 +28,19 @@ class Segment:
         self.canvas.itemconfig(self.id, state = "hidden")
 
 class Cislica:
+    SEGMENT_MAP = {
+        0: [0, 1, 2, 4, 5, 6],
+        1: [1, 4],
+        2: [0, 1, 3, 5, 6],
+        3: [0, 1, 3, 4, 6],
+        4: [2, 3, 1, 4],
+        5: [0, 2, 3, 4, 6],
+        6: [0, 2, 3, 4, 5, 6],
+        7: [0, 1, 4],
+        8: [0, 1, 2, 3, 4, 5, 6],
+        9: [0, 1, 2, 3, 4, 6]
+    }
+
     def __init__(self, x, y, vs, ms, farba, canvas):
         self.parts = []
         # Poriadie segmentov: 0:top, 1:upper-right, 2:upper-left, 3:middle, 4:lower-right, 5:lower-left, 6:bottom
@@ -51,24 +65,12 @@ class Cislica:
     
     def zobraz(self, cislo):
         self.all_off()
-        segment_map = {
-            0: [0, 1, 2, 4, 5, 6],
-            1: [1, 4],
-            2: [0, 1, 3, 5, 6],
-            3: [0, 1, 3, 4, 6],
-            4: [2, 3, 1, 4],
-            5: [0, 2, 3, 4, 6],
-            6: [0, 2, 3, 4, 5, 6],
-            7: [0, 1, 4],
-            8: [0, 1, 2, 3, 4, 5, 6],
-            9: [0, 1, 2, 3, 4, 6]
-        }
-        if cislo in segment_map:
-            for index in segment_map[cislo]:
+        if cislo in self.SEGMENT_MAP:
+            for index in self.SEGMENT_MAP[cislo]:
                 self.parts[index].on()
 
 # Vytvorenie a zobrazenie číslice 8
 s1 = Cislica(100, 100, 100, 20, "blue", canvas)
-s1.zobraz(1)
+s1.zobraz(4)
 
 win.mainloop()
