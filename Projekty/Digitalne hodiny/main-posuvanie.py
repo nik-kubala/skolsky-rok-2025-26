@@ -3,7 +3,7 @@ import tkinter as tk
 
 # --- KONFIGURÁCIA VZHĽADU ---
 OKNO_SIRKA = 1000
-OKNO_VYSKA = 200
+OKNO_VYSKA = 800
 
 CISLICA_SIRKA = 80
 CISLICA_VYSKA = 140
@@ -173,15 +173,15 @@ class Dvojbodka:
         
 
 class Hodiny:
-    def __init__(self) -> None:
-        self.cislo1 = Cislo(canvas, 20, 20)
-        self.cislo2 = Cislo(canvas, 145, 20)
-        self.dvojbodka1 = Dvojbodka(canvas, 285, 70)
-        self.cislo3 = Cislo(canvas, 370, 20)
-        self.cislo4 = Cislo(canvas, 495, 20)
-        self.dvojbodka2 = Dvojbodka(canvas, 635, 70)
-        self.cislo5 = Cislo(canvas, 710, 20)
-        self.cislo6 = Cislo(canvas, 835, 20)
+    def __init__(self, x: int, y: int) -> None:
+        self.cislo1 = Cislo(canvas, x + 20, y + 20)
+        self.cislo2 = Cislo(canvas, x + 145, y + 20)
+        self.dvojbodka1 = Dvojbodka(canvas, x + 285, y + 70)
+        self.cislo3 = Cislo(canvas, x + 370, y + 20)
+        self.cislo4 = Cislo(canvas, x + 495, y + 20)
+        self.dvojbodka2 = Dvojbodka(canvas, x + 635, y + 70)
+        self.cislo5 = Cislo(canvas, x + 710, y + 20)
+        self.cislo6 = Cislo(canvas, x + 835, y + 20)
         
     def update(self):
         self.hodina1 = datetime.datetime.now().hour // 10
@@ -212,7 +212,10 @@ canvas = tk.Canvas(
     )
 canvas.pack()
 
-hodiny = Hodiny()
-hodiny.update()
+hodiny1 = Hodiny(0, 0)
+hodiny1.update()
+
+hodiny2 = Hodiny(0, 200)
+hodiny2.update()
 
 win.mainloop()

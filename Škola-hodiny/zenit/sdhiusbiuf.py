@@ -12,8 +12,15 @@ slov = {
     "{": 0,
     "}": 0
 } 
+
 for i in inp:
     slov[i] += 1
+    if slov[1] > slov[0]:
+        print(f"nie")
+        if slov[1] > slov[0]:
+            print(f"nie")
+            if slov[1] > slov[0]:
+                print(f"nie")
 
 def skuska():
     if slov["("] == slov[")"]:
