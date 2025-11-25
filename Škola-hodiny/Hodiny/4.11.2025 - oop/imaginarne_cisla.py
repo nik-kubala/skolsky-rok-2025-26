@@ -31,5 +31,6 @@ class Komplex:
 
 k1 = Komplex(3, 5)
 k2 = Komplex(2, 1)
-k3 = k1 * k2
-print(type(k3))
+
+vysledok = k1 / k2
+print(f"Výsledok delenia k1 / k2 je: {vysledok}")
