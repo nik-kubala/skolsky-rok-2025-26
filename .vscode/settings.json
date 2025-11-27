@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Moja dadabaza",
+            "database": "${workspaceFolder:skolsky-rok-2025-26}/Škola-hodiny/Hodiny/25.11.2025 - databazy/mojadatabaza.sqlite"
+        }
+    ]
+}
