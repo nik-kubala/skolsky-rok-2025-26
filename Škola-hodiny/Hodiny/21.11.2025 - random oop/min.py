@@ -1,6 +1,3 @@
-from os import name
-
-
 class Vehicle:
     def __init__(self, name, max_speed, milage):
         self.name = name

@@ -5,7 +5,7 @@ def otvaranie(vstup: str) -> list[str]:
     with open(vstup, "r", encoding = "UTF-8")as fr:
         return fr.readlines()
 
-vitazne: set[str] = {str(cislo) for cislo in rd.sample(range(1, 60), 6)}
+vitazne: set[str] = {str(cislo) for cislo in rd.sample(range(1, 50), 6)}
 
 uzivatelove_tipy: list[str] = input("Vyber 6 čísel od 1 po 49, oddelené medzerou: ").split()
 
