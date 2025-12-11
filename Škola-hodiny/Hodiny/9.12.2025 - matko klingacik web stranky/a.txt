@@ -1,0 +1,11 @@
+protokol (dohovor) - subor pravidiel ktorý musím dodržiavať (http alebo https)
+prepis z kodu na to co vidíme je renderovanie
+<> - všetko v týchto zátvorkách je tag
+html je kostra webstránky - dava odpoved na to ze co to je nie ako to vyzera
+css                       - dava odpoved na to ako to vyzera (design),  vedia sa naviazat na html tagy
+javascript
+
+dynamicka webstranka je o tom ze nesedí ako pevný dokument na servery, ale pre to že ju skladá na servery v reálnom čase
+
+
+dom - document object model
