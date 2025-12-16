@@ -1,0 +1,3 @@
+selector (z css) sa pripína na tag
+
+FTP client je zariadenie na presun suborov od pocitaca na server
